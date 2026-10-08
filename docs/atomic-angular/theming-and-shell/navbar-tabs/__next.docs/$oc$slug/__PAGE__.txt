@@ -1,0 +1,297 @@
+1:"$Sreact.fragment"
+2:I[298330,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"DocsPage"]
+3:I[298330,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"DocsTitle"]
+4:I[298330,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"DocsDescription"]
+5:I[413296,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"PageActions"]
+6:I[298330,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"DocsBody"]
+7:I[494157,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"Heading"]
+8:I[196819,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"Lang"]
+9:I[144324,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"CodeBlock"]
+b:I[144324,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"Pre"]
+34:I[957954,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"TypeTable"]
+35:I[337010,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"Accordions"]
+36:I[337010,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"Accordion"]
+37:I[647873,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js"],"default"]
+38:I[897367,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js"],"OutletBoundary"]
+39:"$Sreact.suspense"
+a:T4dc,<svg viewBox="0 0 24 24"><path d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z" fill="currentColor" /></svg>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"toc":[{"depth":2,"url":"#minimal-example","title":"Minimal example"},{"depth":2,"url":"#how-it-works","title":"How it works"},{"depth":3,"url":"#where-the-counts-and-the-persisted-filters-behavior-come-from","title":"Where the counts and the persisted-filters behavior come from"},{"depth":2,"url":"#options","title":"Options"},{"depth":2,"url":"#pitfalls","title":"Pitfalls"},{"depth":2,"url":"#whats-next","title":"What's next"}],"tableOfContent":{"style":"clerk"},"tableOfContentPopover":{"style":"clerk"},"children":[["$","$L3",null,{"children":"Navbar Tabs"}],["$","$L4",null,{"children":"A tab bar generated from the Angular Router's own child-route configuration, with automatic overflow into a dropdown and optional per-tab result counts."}],["$","$L5",null,{"markdownUrl":"/atomic-angular-docs/llms.mdx/docs/atomic-angular/theming-and-shell/navbar-tabs/content.md"}],["$","$L6",null,{"children":[["$","p",null,{"children":[["$","code",null,{"children":"<navbar-tabs>"}]," renders one tab per child route of a given router ",["$","code",null,{"children":"path"}]," — there is no tab list to pass in,\nonly a ",["$","code",null,{"children":"data"}]," object per route. The active tab tracks the current URL, and whatever doesn't fit collapses into\na \"⋮\" menu instead of clipping."]}],"\n",["$","$L7",null,{"as":"h2","id":"minimal-example","children":"Minimal example"}],"\n",["$","section",null,{"id":"navbar-tabs-basic","className":"my-6","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center justify-between gap-x-3 gap-y-1","children":[["$","span",null,{"className":"text-sm font-medium text-fd-foreground","children":"Tabs generated from a router config"}],false]}],["$","$L8",null,{"value":"angular","children":[["$","$L9",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","title":"app.routes.ts","icon":"$a","children":["$","$Lb",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"import"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" { Routes } "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"from"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" \"@angular/router\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":";"}]]}],"\n",["$","span",null,{"className":"line"}],"\n",["$","span",null,{"className":"line","children":["$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12"]}],"\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b"]}]}]}],"$L1c"]}]]}],"\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a"]}]]}],["$L2b","$L2c"],"$L2d"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Hqf8fLhkONh36gqiSly6n"}
+c:["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"export"}]
+d:["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":" const"}]
+e:["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" routes"}]
+f:["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":":"}]
+10:["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":" Routes"}]
+11:["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":" ="}]
+12:["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" ["}]
+13:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  {"}]}]
+14:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    path: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"search\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}]
+15:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    children: ["}]}]
+16:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      { path: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"all\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", data: { display: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"All\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", wsQueryTab: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"all\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", icon: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"far fa-globe\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" } },"}]]}]
+17:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      { path: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"documents\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", data: { display: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"Documents\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", wsQueryTab: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"documents\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", icon: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"far fa-file-alt\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", queryName: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"documents-query\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" } },"}]]}]
+18:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"      { path: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"people\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", data: { display: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"People\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", wsQueryTab: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"people\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":", icon: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"far fa-user\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" } },"}]]}]
+19:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"    ],"}]}]
+1a:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  },"}]}]
+1b:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"];"}]}]
+2e:T4dc,<svg viewBox="0 0 24 24"><path d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z" fill="currentColor" /></svg>1c:["$","$L9",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","title":"sample.component.ts","icon":"$2e","children":["$","$Lb",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"import"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" { Component } "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"from"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" \"@angular/core\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":";"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"import"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" { NavbarTabsComponent } "}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"from"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" \"@sinequa/atomic-angular\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":";"}]]}],"\n",["$","span",null,{"className":"line"}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"@"}],["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"Component"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"({"}]]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  selector: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"\"sample-component\""}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  imports: [NavbarTabsComponent],"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6A737D","--shiki-dark":"#6A737D"},"children":"  // Tabs come from the \"search\" route's children above — nothing else to pass."}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"  template: "}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"`<navbar-tabs path=\"search\" [showCount]=\"true\" />`"}],"$L2f"]}],"\n","$L30","\n","$L31"]}]}]}]
+1d:["$","p",null,{"children":["Renders nothing when ",["$","code",null,{"children":"path"}]," has no matching child routes in the router config."]}]
+1e:["$","$L7",null,{"as":"h2","id":"how-it-works","children":"How it works"}]
+32:T457a,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 603.0664999999999 906.8999999999999" width="603.0664999999999" height="906.8999999999999" style="--bg:var(--color-fd-card);--fg:var(--color-fd-foreground);--line:var(--color-fd-muted-foreground);--accent:var(--color-fd-primary);--muted:var(--color-fd-muted-foreground);--surface:var(--color-fd-secondary);--border:color-mix(in oklab, var(--color-fd-muted-foreground) 70%, var(--color-fd-border))">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=inherit:wght@400;500;600;700&amp;display=swap');
+  text { font-family: 'inherit', system-ui, sans-serif; }
+  svg {
+    /* Derived from --bg and --fg (overridable via --line, --accent, etc.) */
+    --_text:          var(--fg);
+    --_text-sec:      var(--muted, color-mix(in srgb, var(--fg) 60%, var(--bg)));
+    --_text-muted:    var(--muted, color-mix(in srgb, var(--fg) 40%, var(--bg)));
+    --_text-faint:    color-mix(in srgb, var(--fg) 25%, var(--bg));
+    --_line:          var(--line, color-mix(in srgb, var(--fg) 50%, var(--bg)));
+    --_arrow:         var(--accent, color-mix(in srgb, var(--fg) 85%, var(--bg)));
+    --_node-fill:     var(--surface, color-mix(in srgb, var(--fg) 3%, var(--bg)));
+    --_node-stroke:   var(--border, color-mix(in srgb, var(--fg) 20%, var(--bg)));
+    --_group-fill:    var(--bg);
+    --_group-hdr:     color-mix(in srgb, var(--fg) 5%, var(--bg));
+    --_inner-stroke:  color-mix(in srgb, var(--fg) 12%, var(--bg));
+    --_key-badge:     color-mix(in srgb, var(--fg) 10%, var(--bg));
+  }
+</style>
+<defs>
+  <marker id="arrowhead" markerWidth="8" markerHeight="5" refX="7" refY="2.5" orient="auto">
+    <polygon points="0 0, 8 2.5, 0 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+  <marker id="arrowhead-start" markerWidth="8" markerHeight="5" refX="1" refY="2.5" orient="auto-start-reverse">
+    <polygon points="8 0, 0 2.5, 8 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+</defs>
+<polyline class="edge" data-from="RouterConfig" data-to="InjectNav" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="read by" points="214.64066666666668,589.4 214.64066666666665,693.6999999999999 286.77524999999997,693.6999999999999 286.77524999999997,705.6999999999999" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="InjectNav" data-to="NavbarTabsComponent" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="tabs / currentPath / searchText" points="315.00891666666666,742.5999999999999 315.00891666666666,846.8999999999999 273.12424999999996,846.8999999999999 273.12424999999996,858.8999999999999" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="NavbarTabsComponent" data-to="TabList" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="renders" points="212.21091666666666,858.8999999999999 212.21091666666666,846.8999999999999 32.5,846.8999999999999 32.5,137.20000000000005 220.35614999999996,137.20000000000005 220.35614999999996,44.900000000000006" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="TabList" data-to="Overflow" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="one Tab per entry, overflowItem" points="237.93454999999997,44.900000000000006 237.93454999999997,149.20000000000005 144.1325,149.20000000000005 144.13249999999996,229.50000000000006" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Overflow" data-to="VisibleCount" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="count" points="144.13249999999996,266.4000000000001 144.13249999999996,382.7000000000001" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="VisibleCount" data-to="MoreTabs" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="144.13249999999996,419.6000000000001 144.1325,455.6000000000001 201.32166666666663,455.6000000000001 201.32166666666663,467.6000000000001" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="TabList" data-to="MoreButton" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="last item, overflowStop" points="255.51294999999996,44.900000000000006 255.51294999999996,80.9 349.315,80.9 349.315,161.2" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="MoreButton" data-to="MoreMenu" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="opens" points="349.315,198.10000000000002 349.31499999999994,314.40000000000003" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="MoreMenu" data-to="MoreTabs" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="lists" points="320.7108333333333,351.3 320.7108333333333,387.30000000000007 316.486,387.30000000000007 316.486,455.6000000000001 255.07199999999995,455.6000000000001 255.07199999999995,467.6000000000001" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="TabList" data-to="OnSelectTab" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="selectedTabChange" points="273.09135,44.900000000000006 273.09135,68.9 503.12749999999994,68.9 503.12749999999994,229.5" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="MoreMenu" data-to="NavigateToTab" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="MenuItem click" points="377.9191666666666,351.3 377.9191666666666,387.30000000000007 382.144,387.30000000000007 382.144,455.6000000000001 422.68949999999995,455.6000000000001 422.68949999999995,467.6000000000001" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="OnSelectTab" data-to="NavigateToTab" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="path changed?" points="503.12749999999994,266.40000000000003 503.12749999999994,455.6000000000001 466.80683333333326,455.6000000000001 466.80683333333326,467.6000000000001" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="NavigateToTab" data-to="RouterNav" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="444.74816666666663,504.50000000000006 444.74816666666663,552.5" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="RouterNav" data-to="InjectNav" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="NavigationEnd" points="444.74816666666663,589.4 444.74816666666663,693.6999999999999 343.2425833333333,693.6999999999999 343.2425833333333,705.6999999999999" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<g class="edge-label" data-from="RouterConfig" data-to="InjectNav" data-label="read by">
+  <rect x="187.64066666666665" y="632.4" width="53.884" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="214.58266666666665" y="647.55" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">read by</text>
+</g>
+<g class="edge-label" data-from="InjectNav" data-to="NavbarTabsComponent" data-label="tabs / currentPath / searchText">
+  <rect x="233.00891666666666" y="785.5999999999999" width="163.77400000000003" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="314.89591666666666" y="800.7499999999999" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">tabs / currentPath / searchText</text>
+</g>
+<g class="edge-label" data-from="NavbarTabsComponent" data-to="TabList" data-label="renders">
+  <rect x="4" y="809.5999999999999" width="56.854" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="32.427" y="824.7499999999999" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">renders</text>
+</g>
+<g class="edge-label" data-from="TabList" data-to="Overflow" data-label="one Tab per entry, overflowItem">
+  <rect x="62.13249999999999" y="156.20000000000005" width="163.774" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="144.0195" y="171.35000000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">one Tab per entry, overflowItem</text>
+</g>
+<g class="edge-label" data-from="Overflow" data-to="VisibleCount" data-label="count">
+  <rect x="122.1325" y="309.4000000000001" width="43.786" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="144.0255" y="324.55000000000007" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">count</text>
+</g>
+<g class="edge-label" data-from="TabList" data-to="MoreButton" data-label="last item, overflowStop">
+  <rect x="289.31500000000005" y="87.9" width="119.81800000000004" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="349.22400000000005" y="103.05000000000001" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">last item, overflowStop</text>
+</g>
+<g class="edge-label" data-from="MoreButton" data-to="MoreMenu" data-label="opens">
+  <rect x="325.315" y="241.1" width="47.35" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="348.99" y="256.25" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">opens</text>
+</g>
+<g class="edge-label" data-from="MoreMenu" data-to="MoreTabs" data-label="lists">
+  <rect x="297.986" y="394.30000000000007" width="36.658" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="316.315" y="409.45000000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">lists</text>
+</g>
+<g class="edge-label" data-from="TabList" data-to="OnSelectTab" data-label="selectedTabChange">
+  <rect x="446.12749999999994" y="156.2" width="113.878" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="503.06649999999996" y="171.35" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">selectedTabChange</text>
+</g>
+<g class="edge-label" data-from="MoreMenu" data-to="NavigateToTab" data-label="MenuItem click">
+  <rect x="338.64399999999995" y="394.30000000000007" width="86.55400000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="381.92099999999994" y="409.45000000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">MenuItem click</text>
+</g>
+<g class="edge-label" data-from="OnSelectTab" data-to="NavigateToTab" data-label="path changed?">
+  <rect x="459.12749999999994" y="394.30000000000007" width="87.14800000000001" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="502.70149999999995" y="409.45000000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">path changed?</text>
+</g>
+<g class="edge-label" data-from="RouterNav" data-to="InjectNav" data-label="NavigationEnd">
+  <rect x="401.24816666666663" y="632.4" width="86.554" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="444.5251666666666" y="647.55" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">NavigationEnd</text>
+</g>
+<g class="node" data-id="RouterConfig" data-label="Router config children of path" data-shape="rectangle">
+  <rect x="109.19166666666666" y="552.5" width="210.898" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="214.64066666666668" y="570.95" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">Router config children of path</text>
+</g>
+<g class="node" data-id="InjectNav" data-label="injectRouteNavigation" data-shape="rectangle">
+  <rect x="230.30791666666664" y="705.6999999999999" width="169.402" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="315.00891666666666" y="724.15" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">injectRouteNavigation</text>
+</g>
+<g class="node" data-id="NavbarTabsComponent" data-label="NavbarTabsComponent" data-shape="rectangle">
+  <rect x="151.29758333333334" y="858.8999999999999" width="182.73999999999995" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="242.6675833333333" y="877.3499999999999" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">NavbarTabsComponent</text>
+</g>
+<g class="node" data-id="TabList" data-label="TabList" data-shape="rectangle">
+  <rect x="202.77774999999997" y="8" width="87.892" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="246.72374999999997" y="26.450000000000003" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">TabList</text>
+</g>
+<g class="node" data-id="Overflow" data-label="OverflowManagerDirective" data-shape="rectangle">
+  <rect x="43.5" y="229.50000000000006" width="201.26499999999993" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="144.13249999999996" y="247.95000000000005" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">OverflowManagerDirective</text>
+</g>
+<g class="node" data-id="VisibleCount" data-label="visibleTabCount signal" data-shape="rectangle">
+  <rect x="56.09699999999998" y="382.7000000000001" width="176.07099999999997" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="144.13249999999996" y="401.1500000000001" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">visibleTabCount signal</text>
+</g>
+<g class="node" data-id="MoreTabs" data-label="moreTabs computed" data-shape="rectangle">
+  <rect x="147.57133333333329" y="467.6000000000001" width="161.251" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="228.1968333333333" y="486.05000000000007" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">moreTabs computed</text>
+</g>
+<g class="node" data-id="MoreButton" data-label="ellipsis more button" data-shape="rectangle">
+  <rect x="272.765" y="161.2" width="153.10000000000002" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="349.315" y="179.64999999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">ellipsis more button</text>
+</g>
+<g class="node" data-id="MoreMenu" data-label="Menu moreTabsMenu" data-shape="rectangle">
+  <rect x="263.5025" y="314.40000000000003" width="171.62499999999997" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="349.315" y="332.85" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">Menu moreTabsMenu</text>
+</g>
+<g class="node" data-id="OnSelectTab" data-label="onSelectTab" data-shape="rectangle">
+  <rect x="444.3614999999999" y="229.5" width="117.53200000000001" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="503.12749999999994" y="247.95" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">onSelectTab</text>
+</g>
+<g class="node" data-id="NavigateToTab" data-label="navigateToTab" data-shape="rectangle">
+  <rect x="378.5721666666666" y="467.6000000000001" width="132.35199999999998" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="444.7481666666666" y="486.05000000000007" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">navigateToTab</text>
+</g>
+<g class="node" data-id="RouterNav" data-label="Router navigate" data-shape="rectangle">
+  <rect x="377.4606666666666" y="552.5" width="134.575" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="444.74816666666663" y="570.95" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">Router navigate</text>
+</g>
+</svg>1f:["$","div",null,{"className":"my-6 overflow-x-auto [&>svg]:mx-auto [&>svg]:h-auto [&>svg]:max-w-full","dangerouslySetInnerHTML":{"__html":"$32"}}]
+20:["$","p",null,{"children":["Selection is a two-way ",["$","code",null,{"children":"model"}]," (",["$","code",null,{"children":"selectedTab"}],") kept in sync with ",["$","code",null,{"children":"currentPath()"}]," ",["$","strong",null,{"children":"one-way only"}]," — an effect\npushes ",["$","code",null,{"children":"currentPath()"}]," into ",["$","code",null,{"children":"selectedTab"}],", never the reverse — so a click (which updates ",["$","code",null,{"children":"selectedTab"}]," before\nthe URL actually changes) is not immediately overwritten by that same effect."]}]
+21:["$","$L7",null,{"as":"h3","id":"where-the-counts-and-the-persisted-filters-behavior-come-from","children":"Where the counts and the persisted-filters behavior come from"}]
+33:T2fd2,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 756.7755 515.6000000000001" width="756.7755" height="515.6000000000001" style="--bg:var(--color-fd-card);--fg:var(--color-fd-foreground);--line:var(--color-fd-muted-foreground);--accent:var(--color-fd-primary);--muted:var(--color-fd-muted-foreground);--surface:var(--color-fd-secondary);--border:color-mix(in oklab, var(--color-fd-muted-foreground) 70%, var(--color-fd-border))">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=inherit:wght@400;500;600;700&amp;display=swap');
+  text { font-family: 'inherit', system-ui, sans-serif; }
+  svg {
+    /* Derived from --bg and --fg (overridable via --line, --accent, etc.) */
+    --_text:          var(--fg);
+    --_text-sec:      var(--muted, color-mix(in srgb, var(--fg) 60%, var(--bg)));
+    --_text-muted:    var(--muted, color-mix(in srgb, var(--fg) 40%, var(--bg)));
+    --_text-faint:    color-mix(in srgb, var(--fg) 25%, var(--bg));
+    --_line:          var(--line, color-mix(in srgb, var(--fg) 50%, var(--bg)));
+    --_arrow:         var(--accent, color-mix(in srgb, var(--fg) 85%, var(--bg)));
+    --_node-fill:     var(--surface, color-mix(in srgb, var(--fg) 3%, var(--bg)));
+    --_node-stroke:   var(--border, color-mix(in srgb, var(--fg) 20%, var(--bg)));
+    --_group-fill:    var(--bg);
+    --_group-hdr:     color-mix(in srgb, var(--fg) 5%, var(--bg));
+    --_inner-stroke:  color-mix(in srgb, var(--fg) 12%, var(--bg));
+    --_key-badge:     color-mix(in srgb, var(--fg) 10%, var(--bg));
+  }
+</style>
+<defs>
+  <marker id="arrowhead" markerWidth="8" markerHeight="5" refX="7" refY="2.5" orient="auto">
+    <polygon points="0 0, 8 2.5, 0 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+  <marker id="arrowhead-start" markerWidth="8" markerHeight="5" refX="1" refY="2.5" orient="auto-start-reverse">
+    <polygon points="8 0, 0 2.5, 8 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+</defs>
+<polyline class="edge" data-from="QueryParamsStore" data-to="InjectNav" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="text, tab" points="86.773,56.900000000000006 86.77299999999998,149.2 228.48650000000004,149.2 228.48650000000004,161.2" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="ApplicationService" data-to="InjectNav" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="routerConfig" points="270.837,56.900000000000006 270.83700000000005,161.2" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="QueryService" data-to="InjectNav" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="result tabs, per-tab count" points="439.34,56.900000000000006 439.34,149.2 313.1875,149.2 313.1875,161.2" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="InjectNav" data-to="NavbarTabsComponent" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="tabs with count" points="242.60333333333335,198.10000000000002 242.60333333333335,234.10000000000002 191.402,234.10000000000002 191.40200000000002,314.40000000000003" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="AppStore" data-to="Persist" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="general features persistFiltersAcrossTabs" points="620.7260000000001,56.900000000000006 620.7260000000001,161.2" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Persist" data-to="QueryParamsHandling" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="merge vs replace" points="620.7260000000001,198.10000000000002 620.7260000000001,314.40000000000003" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="NavbarTabsComponent" data-to="Router" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="router navigate" points="191.40200000000002,351.3 191.402,455.6000000000001 257.17633333333333,455.6000000000001 257.17633333333333,467.6000000000001" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="Router" data-to="InjectNav" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="NavigationEnd" points="284.4976666666667,467.6000000000001 284.4976666666667,455.6000000000001 350.272,455.6000000000001 350.272,387.30000000000007 299.0706666666667,387.30000000000007 299.0706666666667,198.10000000000002" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<g class="edge-label" data-from="QueryParamsStore" data-to="InjectNav" data-label="text, tab">
+  <rect x="60.27299999999998" y="111.9" width="52.696" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="86.62099999999998" y="127.05000000000001" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">text, tab</text>
+</g>
+<g class="edge-label" data-from="ApplicationService" data-to="InjectNav" data-label="routerConfig">
+  <rect x="231.83700000000002" y="87.9" width="77.05000000000001" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="270.362" y="103.05000000000001" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">routerConfig</text>
+</g>
+<g class="edge-label" data-from="QueryService" data-to="InjectNav" data-label="result tabs, per-tab count">
+  <rect x="372.84000000000003" y="87.9" width="132.88600000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="439.283" y="103.05000000000001" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">result tabs, per-tab count</text>
+</g>
+<g class="edge-label" data-from="InjectNav" data-to="NavbarTabsComponent" data-label="tabs with count">
+  <rect x="148.402" y="241.1" width="85.36600000000001" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="191.08499999999998" y="256.25" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">tabs with count</text>
+</g>
+<g class="edge-label" data-from="AppStore" data-to="Persist" data-label="general features persistFiltersAcrossTabs">
+  <rect x="509.72600000000006" y="87.9" width="221.986" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="620.719" y="103.05000000000001" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">general features persistFiltersAcrossTabs</text>
+</g>
+<g class="edge-label" data-from="Persist" data-to="QueryParamsHandling" data-label="merge vs replace">
+  <rect x="570.7260000000001" y="241.1" width="99.62200000000001" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="620.5370000000001" y="256.25" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">merge vs replace</text>
+</g>
+<g class="edge-label" data-from="NavbarTabsComponent" data-to="Router" data-label="router navigate">
+  <rect x="146.402" y="394.30000000000007" width="89.524" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="191.164" y="409.45000000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">router navigate</text>
+</g>
+<g class="edge-label" data-from="Router" data-to="InjectNav" data-label="NavigationEnd">
+  <rect x="306.772" y="394.30000000000007" width="86.554" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="350.049" y="409.45000000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">NavigationEnd</text>
+</g>
+<g class="node" data-id="QueryParamsStore" data-label="QueryParamsStore" data-shape="rectangle">
+  <rect x="8" y="20" width="157.546" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="86.773" y="38.45" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">QueryParamsStore</text>
+</g>
+<g class="node" data-id="InjectNav" data-label="injectRouteNavigation" data-shape="rectangle">
+  <rect x="186.13600000000002" y="161.2" width="169.402" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="270.837" y="179.64999999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">injectRouteNavigation</text>
+</g>
+<g class="node" data-id="ApplicationService" data-label="ApplicationService" data-shape="rectangle">
+  <rect x="193.546" y="20" width="154.582" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="270.837" y="38.45" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">ApplicationService</text>
+</g>
+<g class="node" data-id="QueryService" data-label="QueryService" data-shape="rectangle">
+  <rect x="376.128" y="20" width="126.424" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="439.34" y="38.45" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">QueryService</text>
+</g>
+<g class="node" data-id="NavbarTabsComponent" data-label="NavbarTabsComponent" data-shape="rectangle">
+  <rect x="100.03200000000004" y="314.40000000000003" width="182.73999999999995" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="191.40200000000002" y="332.85" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">NavbarTabsComponent</text>
+</g>
+<g class="node" data-id="AppStore" data-label="AppStore" data-shape="rectangle">
+  <rect x="571.5930000000001" y="20" width="98.266" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="620.7260000000001" y="38.45" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">AppStore</text>
+</g>
+<g class="node" data-id="Persist" data-label="persistFiltersAcrossTabs computed" data-shape="rectangle">
+  <rect x="492.6765000000001" y="161.2" width="256.099" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="620.7260000000001" y="179.64999999999998" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">persistFiltersAcrossTabs computed</text>
+</g>
+<g class="node" data-id="QueryParamsHandling" data-label="getQueryParamsHandling" data-shape="rectangle">
+  <rect x="523.4280000000001" y="314.40000000000003" width="194.59599999999995" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="620.7260000000001" y="332.85" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">getQueryParamsHandling</text>
+</g>
+<g class="node" data-id="Router" data-label="Router" data-shape="rectangle">
+  <rect x="229.85500000000002" y="467.6000000000001" width="81.964" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="270.837" y="486.05000000000007" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">Router</text>
+</g>
+</svg>22:["$","div",null,{"className":"my-6 overflow-x-auto [&>svg]:mx-auto [&>svg]:h-auto [&>svg]:max-w-full","dangerouslySetInnerHTML":{"__html":"$33"}}]
+23:["$","p",null,{"children":["A tab shows no badge at all (not a ",["$","code",null,{"children":"0"}]," badge) unless its ",["$","code",null,{"children":"queryName"}]," matches the current result's query name;\nit is disabled only once the matched count is exactly ",["$","code",null,{"children":"0"}]," — in the visible bar and in the overflow menu alike."]}]
+24:["$","$L7",null,{"as":"h2","id":"options","children":"Options"}]
+25:["$","$L34",null,{"type":{"path":{"type":"string","default":"\"search\"","description":"Router path segment whose child routes become tabs. Each child's data (display, wsQueryTab, icon, queryName) configures the tab."},"showCount":{"type":"boolean","default":"true","description":"Shows a result-count badge per tab, matched by queryName/wsQueryTab. A tab with a matched count of exactly 0 is disabled."},"noTruncate":{"type":"boolean","default":"true","description":"true: labels never clip, non-fitting tabs overflow into the menu. false: labels truncate with an ellipsis inside a fixed-width tab."},"minTabWidth":{"type":"string | undefined","description":"Explicit minimum width in truncate mode (noTruncate=false), overriding the automatic minimum."},"ariaLabel":{"type":"string | undefined","description":"Accessible name of the tab list. Defaults to the translated \"navbarTabs.tabs\" — override when a page holds several tab lists."}}}]
+26:["$","p",null,{"children":["No outputs — tab activation navigates through the Angular ",["$","code",null,{"children":"Router"}]," directly."]}]
+27:["$","$L7",null,{"as":"h2","id":"pitfalls","children":"Pitfalls"}]
+28:["$","$L35",null,{"children":[["$","$L36",null,{"title":"The overflow ('⋮') button doesn't respond to arrow keys the way the tabs do","children":["$","p",null,{"children":["Expected: ",["$","code",null,{"children":"Tabs"}],"/",["$","code",null,{"children":"TabList"}],"/",["$","code",null,{"children":"Tab"}]," (",["$","code",null,{"children":"@sinequa/galactik"}],") delegate ARIA roles, keyboard navigation and roving\n",["$","code",null,{"children":"tabindex"}]," to ",["$","code",null,{"children":"@angular/aria/tabs"}]," via ",["$","code",null,{"children":"hostDirectives"}]," — but the \"more\" button is deliberately never\nregistered as a ",["$","code",null,{"children":"Tab"}],", so it does not participate in arrow-key navigation between tabs. It is still reachable:\nit is the last child of ",["$","code",null,{"children":"TabList"}]," (inside the same pill, not floating beside it) and opens its menu on click,\nEnter or Space."]}]}],["$","$L36",null,{"title":"A tab shows a '0' badge instead of no badge at all","children":["$","p",null,{"children":["That only happens when its ",["$","code",null,{"children":"queryName"}],"/",["$","code",null,{"children":"wsQueryTab"}]," genuinely matches the current result and the matched count\nis ",["$","code",null,{"children":"0"}]," — which also disables it. If you expected no badge instead, check the tab's ",["$","code",null,{"children":"data.queryName"}]," against\nthe query the result actually came from; a mismatch shows no badge (not a ",["$","code",null,{"children":"0"}]," one), so a ",["$","code",null,{"children":"0"}]," badge is never a\nfalse positive."]}]}],["$","$L36",null,{"title":"Filters/sort disappear after switching tabs","children":["$","p",null,{"children":["Depends on the app-wide ",["$","code",null,{"children":"general.features.persistFiltersAcrossTabs"}]," flag. When it is off (the default), tab\nnavigation replaces the query params from scratch — filters, sort, selected id and page are explicitly cleared.\nTurn the flag on to merge instead, keeping those params across a tab change."]}]}]]}]
+29:["$","$L7",null,{"as":"h2","id":"whats-next","children":"What's next"}]
+2a:["$","div",null,{"children":["$","$L37",null,{"children":[null,["$","h3",null,{"className":"not-prose mb-1 text-sm font-medium","children":"Theme"}],null,["$","div",null,{"className":"text-sm text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"Register and apply a color theme, the other piece of the application shell."}]}]],"href":"/docs/atomic-angular/theming-and-shell/theme","data-card":true,"className":"block rounded-xl border bg-fd-card p-4 text-fd-card-foreground transition-colors @max-lg:col-span-full hover:bg-fd-accent/80"}],"className":"grid grid-cols-2 gap-3 @container"}]
+2b:["$","script","script-0",{"src":"/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","async":true}]
+2c:["$","script","script-1",{"src":"/atomic-angular-docs/_next/static/chunks/23nt330z0-3na.js","async":true}]
+2d:["$","$L38",null,{"children":["$","$39",null,{"name":"Next.MetadataOutlet","children":"$@3a"}]}]
+2f:["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":","}]
+30:["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":"})"}]}]
+31:["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":"export"}],["$","span",null,{"style":{"--shiki-light":"#D73A49","--shiki-dark":"#F97583"},"children":" class"}],["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":" SampleComponent"}],["$","span",null,{"style":{"--shiki-light":"#24292E","--shiki-dark":"#E1E4E8"},"children":" {}"}]]}]
+3a:null

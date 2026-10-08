@@ -1,0 +1,12 @@
+{
+  "documentPreview": "Dokumentenvorschau",
+  "zoomFit": "Anpassen",
+  "zoomIn": "Vergrößern",
+  "zoomOut": "Verkleinern",
+  "toggleHeader": "Dokumentdetails ein-/ausblenden",
+  "moreActions": "Weitere Aktionen",
+  "highlights": "Hervorhebungen",
+  "searchInDocument": "Im Dokument suchen",
+  "toggleAIDescription": "KI-Beschreibung anzeigen / KI-Beschreibung ausblenden",
+  "previewUnavailable": "Vorschau für diese Datei ist leider nicht verfügbar."
+}

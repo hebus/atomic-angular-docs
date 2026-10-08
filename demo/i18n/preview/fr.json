@@ -1,0 +1,12 @@
+{
+  "documentPreview": "Prévisualisation du document",
+  "zoomFit": "Ajuster",
+  "zoomIn": "Zoomer",
+  "zoomOut": "Dézoomer",
+  "toggleHeader": "Afficher/masquer les détails du document",
+  "moreActions": "Plus d'actions",
+  "highlights": "Surlignages",
+  "searchInDocument": "Rechercher dans le document",
+  "toggleAIDescription": "Afficher la description de l'IA / Cacher la description de l'IA",
+  "previewUnavailable": "Désolé, la prévisualisation n'est pas disponible pour ce fichier."
+}

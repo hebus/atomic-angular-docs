@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Q3 2026 — Product Roadmap Review</title>
+    <style>
+      :root {
+        color-scheme: light;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: #ffffff;
+        color: #182021;
+        font-family:
+          "Hanken Grotesk",
+          system-ui,
+          -apple-system,
+          "Segoe UI",
+          sans-serif;
+        font-size: 15px;
+        line-height: 1.65;
+      }
+      #doc {
+        transform-origin: top left;
+      }
+      /* one block per "page", as a converted document would have */
+      .sq-page {
+        padding: 3rem 3.5rem;
+        border-bottom: 1px solid #d9dedf;
+        min-height: 520px;
+      }
+      .sq-page:last-child {
+        border-bottom: 0;
+      }
+      .page-footer {
+        margin-top: 2rem;
+        color: #6b7476;
+        font-size: 0.8rem;
+        text-align: right;
+      }
+      h1 {
+        margin: 0 0 0.25rem;
+        font-size: 1.9rem;
+        line-height: 1.2;
+      }
+      .subtitle {
+        margin: 0 0 2rem;
+        color: #6b7476;
+      }
+      h2 {
+        margin: 2rem 0 0.5rem;
+        font-size: 1.2rem;
+        border-bottom: 2px solid #e3e7e8;
+        padding-bottom: 0.25rem;
+      }
+      p {
+        margin: 0 0 1rem;
+      }
+      ul,
+      ol {
+        margin: 0 0 1rem;
+        padding-inline-start: 1.4rem;
+      }
+      li {
+        margin-bottom: 0.25rem;
+      }
+      table {
+        width: 100%;
+        margin: 0 0 1.25rem;
+        border-collapse: collapse;
+        font-size: 0.92rem;
+      }
+      th,
+      td {
+        padding: 0.5rem 0.75rem;
+        border: 1px solid #d9dedf;
+        text-align: left;
+      }
+      th {
+        background: #f3f5f5;
+      }
+      blockquote {
+        margin: 0 0 1rem;
+        padding: 0.5rem 1rem;
+        border-inline-start: 4px solid #8fb4ff;
+        background: #f5f8ff;
+        color: #2d3a52;
+      }
+      .tag {
+        display: inline-block;
+        padding: 0 0.5rem;
+        border-radius: 999px;
+        background: #e6f4ea;
+        color: #1e6b34;
+        font-size: 0.78rem;
+        font-weight: 600;
+      }
+      .tag.risk {
+        background: #fdeaea;
+        color: #a12a2a;
+      }
+      .tag.wip {
+        background: #fff4dc;
+        color: #8a5a00;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="doc">
+      <section class="sq-page" id="sq-page-start-1">
+        <h1>Q3 2026 — Product Roadmap Review</h1>
+        <p class="subtitle">
+          Prepared by the Product team · Internal · September 2026
+        </p>
+
+        <h2>1. Executive summary</h2>
+        <p>
+          The third quarter closed with <b>four of six</b> planned milestones
+          delivered. Search relevance and the new document workspaces shipped on
+          schedule; the mobile redesign and the audit export slipped by one
+          sprint. This document reviews what was delivered, what moved, and what
+          we commit to for the fourth quarter.
+        </p>
+        <blockquote>
+          “Ship fewer things, but ship them finished.” — guiding principle
+          adopted at the start of the quarter.
+        </blockquote>
+
+        <h2>2. Key figures</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Indicator</th>
+              <th>Q2 2026</th>
+              <th>Q3 2026</th>
+              <th>Change</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Weekly active users</td>
+              <td>12 400</td>
+              <td>15 850</td>
+              <td>+27.8 %</td>
+            </tr>
+            <tr>
+              <td>Median search latency</td>
+              <td>420 ms</td>
+              <td>310 ms</td>
+              <td>−26.2 %</td>
+            </tr>
+            <tr>
+              <td>Documents indexed</td>
+              <td>3.1 M</td>
+              <td>4.6 M</td>
+              <td>+48.4 %</td>
+            </tr>
+            <tr>
+              <td>Support tickets per 1 000 users</td>
+              <td>18</td>
+              <td>11</td>
+              <td>−38.9 %</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="page-footer">Page 1</div>
+      </section>
+
+      <section class="sq-page" id="sq-page-start-2">
+        <h2>3. Delivered this quarter</h2>
+        <ol>
+          <li>
+            <b>Search relevance</b> <span class="tag">Done</span> — new ranking
+            profile, validated on 1 200 real queries.
+          </li>
+          <li>
+            <b>Document workspaces</b> <span class="tag">Done</span> — create,
+            share and search a set of documents.
+          </li>
+          <li>
+            <b>Single sign-on</b> <span class="tag">Done</span> — OIDC with
+            automatic account linking.
+          </li>
+          <li>
+            <b>Accessibility pass</b> <span class="tag">Done</span> — keyboard
+            navigation and contrast on every filter.
+          </li>
+        </ol>
+
+        <h2>4. Slipped to next sprint</h2>
+        <ul>
+          <li>
+            <b>Mobile redesign</b> <span class="tag wip">In progress</span> —
+            navigation done, filters panel remaining.
+          </li>
+          <li>
+            <b>Audit export</b> <span class="tag risk">At risk</span> — depends
+            on the new retention policy.
+          </li>
+        </ul>
+        <p>
+          The slippage is mostly explained by the late arrival of the retention
+          requirements. The team has agreed to freeze the scope of both items
+          until the policy is signed off, to avoid rework.
+        </p>
+
+        <h2>5. Risks</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Risk</th>
+              <th>Likelihood</th>
+              <th>Mitigation</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Retention policy delayed again</td>
+              <td>Medium</td>
+              <td>
+                Ship the export behind a feature flag with a configurable
+                retention.
+              </td>
+            </tr>
+            <tr>
+              <td>Index growth outpaces capacity</td>
+              <td>Low</td>
+              <td>Provision two additional shards before the October peak.</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="page-footer">Page 2</div>
+      </section>
+
+      <section class="sq-page" id="sq-page-start-3">
+        <h2>6. Commitments for Q4</h2>
+        <p>
+          The following items are committed. Anything not listed here is, by
+          definition, a stretch goal.
+        </p>
+        <ol>
+          <li>Complete the mobile redesign, including the filters panel.</li>
+          <li>Release the audit export with configurable retention.</li>
+          <li>Open the workspaces to external readers.</li>
+          <li>Reduce the median search latency under 250 ms.</li>
+        </ol>
+
+        <h2>7. Decisions needed</h2>
+        <p>
+          Two decisions are required from the steering committee before the end
+          of October: the retention period applied by default, and whether
+          external readers count towards the licence quota.
+        </p>
+        <p>
+          Thank you to everyone who contributed to this quarter — particularly
+          the support team, whose feedback shaped most of the accessibility
+          work.
+        </p>
+        <div class="page-footer">Page 3</div>
+      </section>
+    </div>
+
+    <script>
+      // Minimal stand-in for the instrumentation a converted document ships with (preview.js):
+      // it speaks the same postMessage protocol as the host's PreviewService, so the page navigator
+      // and the zoom controls of <preview-content> work against this document.
+      (function () {
+        var doc = document.getElementById("doc");
+        var pages = Array.prototype.slice.call(
+          document.querySelectorAll(".sq-page")
+        );
+        var zoom = 1;
+        var current = 1;
+
+        function post(message) {
+          parent.postMessage(message, "*");
+        }
+
+        function setZoom(value) {
+          zoom = Math.min(2, Math.max(0.5, Math.round(value * 10) / 10));
+          doc.style.zoom = String(zoom);
+        }
+
+        function visiblePage() {
+          var line = window.scrollY + window.innerHeight / 3;
+          var found = 1;
+          pages.forEach(function (page, index) {
+            if (page.offsetTop * zoom <= line) found = index + 1;
+          });
+          return found;
+        }
+
+        function goTo(page) {
+          var index = Math.min(pages.length, Math.max(1, Number(page) || 1));
+          window.scrollTo({
+            top: pages[index - 1].offsetTop * zoom,
+            behavior: "smooth"
+          });
+        }
+
+        window.addEventListener("message", function (event) {
+          var message = event.data || {};
+          switch (message.action) {
+            case "zoom-in":
+              return setZoom(zoom + 0.1);
+            case "zoom-out":
+              return setZoom(zoom - 0.1);
+            case "zoom-fit":
+              return setZoom(1);
+            case "goto-page":
+              return goTo(message.page);
+            case "next-page":
+              return goTo(current + 1);
+            case "prev-page":
+              return goTo(current - 1);
+            case "first-page":
+              return goTo(1);
+            case "last-page":
+              return goTo(pages.length);
+          }
+        });
+
+        window.addEventListener("scroll", function () {
+          var page = visiblePage();
+          if (page === current) return;
+          current = page;
+          post({ type: "page-changed", data: { current: current } });
+        });
+
+        window.addEventListener("load", function () {
+          post({ type: "ready" });
+          post({
+            type: "page-info",
+            data: { total: pages.length, current: current }
+          });
+        });
+      })();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,37 @@
+{
+  "title": "Benutzerprofil",
+  "notDefined": "Nicht definiert",
+  "language": "Sprache",
+  "profileFields": "Profilfelder",
+  "changePhoto": "Profilfoto ändern",
+  "loading": "Ihr Profil wird geladen…",
+  "loadError": "Bitte wenden Sie sich an einen Administrator, um Ihr Benutzerprofil zu erstellen.",
+  "deleteProperty": "Eigenschaft löschen",
+  "editProperty": "Eigenschaft bearbeiten",
+  "saveProperty": "Eigenschaft speichern",
+  "cancelEdit": "Bearbeitung abbrechen",
+  "deletePropertyNamed": "{{property}} löschen",
+  "editPropertyNamed": "{{property}} bearbeiten",
+  "savePropertyNamed": "{{property}} speichern",
+  "cancelEditNamed": "Bearbeitung von {{property}} abbrechen",
+  "status": {
+    "editing": "{{property}} wird bearbeitet. Zum Abbrechen Esc drücken.",
+    "saved": "{{property}} gespeichert.",
+    "editCancelled": "Bearbeitung von {{property}} abgebrochen.",
+    "deleted": "{{property}} gelöscht."
+  },
+  "errors": {
+    "required": "Dieses Feld ist erforderlich."
+  },
+  "data": {
+    "mail": "E-Mail",
+    "fullName": "Vollständiger Name",
+    "jobTitle": "Berufsbezeichnung",
+    "group": "Gruppe",
+    "organisation": "Organisation",
+    "location": "Standort",
+    "profilePhoto": "Profilfoto",
+    "skills": "Fähigkeiten"
+  },
+  "close": "Schließen"
+}

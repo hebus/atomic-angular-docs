@@ -1,0 +1,27 @@
+{
+  "label": "Bewerten Sie Ihre Suche",
+  "button": "Feedback senden",
+  "like": "Mir gefallen die Ergebnisse",
+  "liked": "Ergebnisse positiv bewertet",
+  "dislike": "Keine nützlichen Ergebnisse",
+  "disliked": "Ergebnisse negativ bewertet",
+  "feedbackSuccess": "Feedback erfolgreich gesendet",
+  "content": {
+    "title": "Feedback zum Inhalt geben",
+    "description": "Schlagen Sie vor, neue Inhalte hinzuzufügen oder bestehende Inhalte zu verbessern"
+  },
+  "ui": {
+    "title": "Feedback zur Benutzeroberfläche geben",
+    "description": "Schlagen Sie Verbesserungen an der Benutzeroberfläche vor"
+  },
+  "lang": {
+    "title": "Feedback zur Sprache geben",
+    "description": "Schlagen Sie Verbesserungen bei der Sprachverarbeitung vor, wie neue Wörter oder Synonyme für die Wörterbücher (dies beeinflusst direkt die Relevanz der Suchmaschine)"
+  },
+  "other": {
+    "title": "Sonstiges Feedback geben",
+    "description": "Reichen Sie Funktionswünsche und andere Verbesserungsideen ein"
+  },
+  "dialogTitle": "Feedback an den Sinequa-Administrator senden",
+  "close": "Schließen"
+}

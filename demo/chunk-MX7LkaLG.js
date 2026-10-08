@@ -1,0 +1,1 @@
+import{o as ge}from"./chunk-Qb-bbXVq.js";function o(r){if(ge(r))return r;throw new Error(`@ngrx/signals: The provided source is not writable.`)}export{o as t};

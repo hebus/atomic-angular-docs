@@ -1,0 +1,25 @@
+{
+  "filterCount": "{count} {count, plural, one {Filter} other {Filter}}",
+  "emptySearch": "Bitte geben Sie eine Suchanfrage ein.",
+  "saved": {
+    "label": "Gespeicherte Suchen",
+    "remove": "Gespeicherte Suche entfernen",
+    "noSavedSearches": "Noch keine gespeicherten Suchen",
+    "save": "Suche speichern",
+    "saved": "Suche erfolgreich gespeichert",
+    "saveName": "Name speichern",
+    "saveYourSearch": "Speichern Sie Ihre Suche",
+    "deleted": "Gespeicherte Suche gelöscht"
+  },
+  "recent": {
+    "label": "Letzte Suchanfragen",
+    "remove": "Letzte Suchanfrage entfernen",
+    "noRecentSearches": "Noch keine letzten Suchanfragen",
+    "deleted": "Letzte Suche gelöscht"
+  },
+  "selection": {
+    "selectAll": "Aktuelle Ergebnisse auswählen",
+    "unselectAll": "Aktuelle Ergebnisse abwählen"
+  },
+  "close": "Schließen"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "Evaluate your search",
+  "button": "Send a feedback",
+  "like": "I like the results",
+  "liked": "Results liked",
+  "dislike": "No useful results",
+  "disliked": "Results disliked",
+  "feedbackSuccess": "Feedback successfully sent",
+  "content": {
+    "title": "Give feedback on the content",
+    "description": "Propose to add new content or improve the current content"
+  },
+  "ui": {
+    "title": "Give feedback on the user interface",
+    "description": "Propose improvements to the User Interface"
+  },
+  "lang": {
+    "title": "Give feedback on the language",
+    "description": "Propose language processing improvements, like new words, synonyms to add to the dictionaries (this affects directly the relevance of the search engine)"
+  },
+  "other": {
+    "title": "Give any feedback",
+    "description": "Submit feature requests, and other improvement ideas"
+  },
+  "dialogTitle": "Send feedback to the Sinequa admin",
+  "close": "Close"
+}

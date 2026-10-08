@@ -1,0 +1,26 @@
+{
+  "overrideUser": {
+    "title": "Override User",
+    "domainToOverride": "Domain",
+    "usernameToOverride": "Username",
+    "domainPlaceholder": "Enter domain to override",
+    "usernamePlaceholder": "Enter username to override",
+    "override": "Override",
+    "welcomeBack": "Welcome back"
+  },
+  "errors": {
+    "required": "This field is required."
+  },
+  "resetUserSettings": {
+    "title": "Reset User Settings",
+    "message": "You are about to reset ALL your user data (recent queries, collections, alerts, preferences, etc.). Do you want to continue?",
+    "success": "User settings have been reset successfully."
+  },
+  "keyboardShortcuts": {
+    "title": "Keyboard shortcuts",
+    "empty": "No keyboard shortcut is available on this page.",
+    "or": "or",
+    "close": "Close"
+  },
+  "close": "Close"
+}

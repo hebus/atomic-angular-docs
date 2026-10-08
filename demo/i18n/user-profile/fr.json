@@ -1,0 +1,37 @@
+{
+  "title": "Profil Utilisateur",
+  "notDefined": "Non défini",
+  "language": "Langue",
+  "profileFields": "Champs du profil",
+  "changePhoto": "Changer la photo de profil",
+  "loading": "Chargement de votre profil…",
+  "loadError": "Veuillez contacter un administrateur pour créer votre profil utilisateur.",
+  "deleteProperty": "Supprimer le champ",
+  "editProperty": "Modifier le champ",
+  "saveProperty": "Enregistrer le champ",
+  "cancelEdit": "Annuler la modification",
+  "deletePropertyNamed": "Supprimer {{property}}",
+  "editPropertyNamed": "Modifier {{property}}",
+  "savePropertyNamed": "Enregistrer {{property}}",
+  "cancelEditNamed": "Annuler la modification de {{property}}",
+  "status": {
+    "editing": "Modification de {{property}}. Appuyez sur Échap pour annuler.",
+    "saved": "{{property}} enregistré.",
+    "editCancelled": "Modification de {{property}} annulée.",
+    "deleted": "{{property}} supprimé."
+  },
+  "errors": {
+    "required": "Ce champ est obligatoire."
+  },
+  "data": {
+    "mail": "E-mail",
+    "fullName": "Nom complet",
+    "jobTitle": "Intitulé du poste",
+    "group": "Groupe",
+    "organisation": "Organisation",
+    "location": "Lieu",
+    "profilePhoto": "Photo de profil",
+    "skills": "Compétences"
+  },
+  "close": "Fermer"
+}

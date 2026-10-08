@@ -1,0 +1,1 @@
+function e(t,a){let r={q:a.queryParams?.text,t:a.queryParams?.tab};a.queryParams?.filters&&a.queryParams?.filters?.length>0&&(r.f=JSON.stringify(a.queryParams?.filters)),t.navigate([a.queryParams?.path],{queryParams:r})}export{e as t};
