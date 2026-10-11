@@ -1,0 +1,26 @@
+{
+  "overrideUser": {
+    "title": "Surcharger l'utilisateur",
+    "domainToOverride": "Domaine",
+    "usernameToOverride": "Nom d'utilisateur",
+    "domainPlaceholder": "Entrez le domaine à surcharger",
+    "usernamePlaceholder": "Entrez le nom d'utilisateur à surcharger",
+    "override": "Surcharger",
+    "welcomeBack": "Bon retour"
+  },
+  "errors": {
+    "required": "Ce champ est obligatoire."
+  },
+  "resetUserSettings": {
+    "title": "Réinitialiser les paramètres de l'utilisateur",
+    "message": "Vous êtes sur le point de réinitialiser TOUTES vos données utilisateur (requêtes récentes, collections, alertes, préférences, etc.). Voulez-vous continuer ?",
+    "success": "Paramètres de l'utilisateur réinitialisés avec succès."
+  },
+  "keyboardShortcuts": {
+    "title": "Raccourcis clavier",
+    "empty": "Aucun raccourci clavier n'est disponible sur cette page.",
+    "or": "ou",
+    "close": "Fermer"
+  },
+  "close": "Fermer"
+}

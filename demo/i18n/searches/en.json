@@ -1,0 +1,25 @@
+{
+  "filterCount": "{count} {count, plural, one {filter} other {filters}}",
+  "emptySearch": "Please enter a search query.",
+  "saved": {
+    "label": "Saved searches",
+    "remove": "Remove saved search",
+    "noSavedSearches": "No saved searches yet",
+    "save": "Save search",
+    "saved": "Search successfully saved",
+    "saveName": "Save name",
+    "saveYourSearch": "Save your search",
+    "deleted": "Saved search deleted"
+  },
+  "recent": {
+    "label": "Recent searches",
+    "remove": "Remove recent search",
+    "noRecentSearches": "No recent searches yet",
+    "deleted": "Recent search deleted"
+  },
+  "selection": {
+    "selectAll": "Select current results",
+    "unselectAll": "Unselect current results"
+  },
+  "close": "Close"
+}

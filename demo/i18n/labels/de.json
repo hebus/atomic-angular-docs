@@ -1,0 +1,10 @@
+{
+  "title": "Labels hinzufügen / bearbeiten",
+  "info": "Drücken Sie 'Enter', um ein neues Label hinzuzufügen, das nicht in den Vorschlägen enthalten ist",
+  "startTyping": "Beginnen Sie, Labels einzugeben...",
+  "publicLabels": "Öffentliche Labels",
+  "privateLabels": "Private Labels",
+  "close": "Schließen",
+  "noResults": "Keine passenden Labels",
+  "error": "Es ist ein Fehler aufgetreten. Bitte stellen Sie sicher, dass der Webdienst für Etiketten korrekt konfiguriert ist, und versuchen Sie es erneut."
+}

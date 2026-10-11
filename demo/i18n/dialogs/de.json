@@ -1,0 +1,26 @@
+{
+  "overrideUser": {
+    "title": "Benutzer überschreiben",
+    "domainToOverride": "Domäne",
+    "usernameToOverride": "Benutzername",
+    "domainPlaceholder": "Zu überschreibende Domäne eingeben",
+    "usernamePlaceholder": "Zu überschreibenden Benutzernamen eingeben",
+    "override": "Überschreiben",
+    "welcomeBack": "Willkommen zurück"
+  },
+  "errors": {
+    "required": "Dieses Feld ist erforderlich."
+  },
+  "resetUserSettings": {
+    "title": "Benutzereinstellungen zurücksetzen",
+    "message": "Sie sind dabei, ALLE Ihre Benutzerdaten (letzte Abfragen, Sammlungen, Benachrichtigungen, Einstellungen usw.) zurückzusetzen. Möchten Sie fortfahren?",
+    "success": "Benutzereinstellungen wurden erfolgreich zurückgesetzt."
+  },
+  "keyboardShortcuts": {
+    "title": "Tastenkombinationen",
+    "empty": "Auf dieser Seite ist keine Tastenkombination verfügbar.",
+    "or": "oder",
+    "close": "Schließen"
+  },
+  "close": "Schließen"
+}

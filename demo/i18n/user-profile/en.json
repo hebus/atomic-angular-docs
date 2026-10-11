@@ -1,0 +1,37 @@
+{
+  "title": "User Profile",
+  "notDefined": "Not defined",
+  "language": "Language",
+  "profileFields": "Profile fields",
+  "changePhoto": "Change profile photo",
+  "loading": "Loading your profile…",
+  "loadError": "Please contact an administrator to create your user profile.",
+  "deleteProperty": "Delete property",
+  "editProperty": "Edit property",
+  "saveProperty": "Save property",
+  "cancelEdit": "Cancel editing",
+  "deletePropertyNamed": "Delete {{property}}",
+  "editPropertyNamed": "Edit {{property}}",
+  "savePropertyNamed": "Save {{property}}",
+  "cancelEditNamed": "Cancel editing {{property}}",
+  "status": {
+    "editing": "Editing {{property}}. Press Escape to cancel.",
+    "saved": "{{property}} saved.",
+    "editCancelled": "Editing {{property}} cancelled.",
+    "deleted": "{{property}} deleted."
+  },
+  "errors": {
+    "required": "This field is required."
+  },
+  "data": {
+    "mail": "Mail",
+    "fullName": "Full name",
+    "jobTitle": "Job title",
+    "group": "Group",
+    "organisation": "Organisation",
+    "location": "Location",
+    "profilePhoto": "Profile photo",
+    "skills": "Skills"
+  },
+  "close": "Close"
+}

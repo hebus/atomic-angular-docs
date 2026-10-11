@@ -1,0 +1,12 @@
+{
+  "documentPreview": "Document preview",
+  "zoomFit": "Fit",
+  "zoomIn": "Zoom in",
+  "zoomOut": "Zoom out",
+  "toggleHeader": "Toggle document details",
+  "moreActions": "More actions",
+  "highlights": "Highlights",
+  "searchInDocument": "Search in document",
+  "toggleAIDescription": "Show AI description / Hide AI description",
+  "previewUnavailable": "Sorry, preview is not available for this file."
+}

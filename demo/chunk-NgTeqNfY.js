@@ -1,0 +1,1 @@
+import"./chunk-X1xxYUHW.js";import"./main-PY4TD72Z.js";import"./chunk-9C1G8Vpk.js";import"./chunk-BMsdQTNM.js";import{a as Qn,c as er,i as Pr,l as et,n as Ke,o as Ye,r as Oe,s as Z,t as Jn}from"./chunk-BKO1dDYv.js";export{Pr as registerLexiqCollectionsElements};

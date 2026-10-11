@@ -1,0 +1,10 @@
+{
+  "title": "Ajout / Modification des labels",
+  "info": "Appuyez sur 'Entrée' pour ajouter un nouveau label qui n'existe pas dans les suggestions",
+  "startTyping": "Commencez à écrire un label...",
+  "publicLabels": "Labels publics",
+  "privateLabels": "Labels privés",
+  "close": "Fermer",
+  "noResults": "Aucun label correspondant",
+  "error": "Une erreur est survenue. Veuillez s'il vous plaît vous assurer que le web service des labels est bien configuré et réessayez."
+}

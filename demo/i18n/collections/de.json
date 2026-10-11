@@ -1,0 +1,20 @@
+{
+  "label": "Sammlungen",
+  "createCollection": "Sammlung erstellen",
+  "manageCollections": "Sammlungen verwalten",
+  "reorderCollections": "Neu anordnen",
+  "addToCollection": "Zur Sammlung hinzufügen",
+  "noCollections": "Noch keine Sammlungen",
+  "collectionName": "Sammlungsname",
+  "deleteCollection": "Sammlung löschen",
+  "confirmDelete": "Sind Sie sicher, dass Sie die Sammlung löschen möchten",
+  "deleted": "Sammlung erfolgreich gelöscht",
+  "cancelCreation": "Erstellung abbrechen",
+  "save": "Speichern",
+  "create": "Erstellen",
+  "cancel": "Abbrechen",
+  "close": "Schließen",
+  "back": "Zurück",
+  "searchCollections": "Sammlungen suchen",
+  "noMatch": "Keine passende Sammlung"
+}
