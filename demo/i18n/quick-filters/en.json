@@ -1,0 +1,18 @@
+{
+  "title": "Quick filters",
+  "search": "Search quick filters",
+  "clearSearch": "Clear search",
+  "list": "Your quick filters",
+  "countOne": "{{count}} filter",
+  "countOther": "{{count}} filters",
+  "empty": "No quick filters yet",
+  "emptyHint": "The quick filters you save from the filters of the results page appear here.",
+  "noMatch": "No quick filter matches your search",
+  "applied": "Quick filter applied: {{name}}",
+  "resize": "Height of the list of quick filters. Use the up and down arrow keys.",
+  "delete": "Delete quick filter {{name}}",
+  "deleteShortcut": "Del",
+  "deleteDescription": "Press {{key}} to delete",
+  "deleted": "Quick filter deleted: {{name}}",
+  "swipeDelete": "Delete"
+}

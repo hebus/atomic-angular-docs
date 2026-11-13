@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[298330,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/3w2bzlp3a7nr6.js"],"DocsPage"]
+3:I[298330,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/3w2bzlp3a7nr6.js"],"DocsTitle"]
+4:I[298330,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/3w2bzlp3a7nr6.js"],"DocsDescription"]
+5:I[413296,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/3w2bzlp3a7nr6.js"],"PageActions"]
+6:I[298330,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/3w2bzlp3a7nr6.js"],"DocsBody"]
+c:I[647873,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js","/atomic-angular-docs/_next/static/chunks/3so60p3bbjn6h.js","/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","/atomic-angular-docs/_next/static/chunks/3w2bzlp3a7nr6.js"],"default"]
+d:I[897367,["/atomic-angular-docs/_next/static/chunks/1ntn7efqc-iiw.js","/atomic-angular-docs/_next/static/chunks/3xew1qhmlya3e.js","/atomic-angular-docs/_next/static/chunks/0799fcgd7yj7f.js","/atomic-angular-docs/_next/static/chunks/0bx1293plq-v1.js","/atomic-angular-docs/_next/static/chunks/3ka5cd_c4jieq.js","/atomic-angular-docs/_next/static/chunks/3ouudypyc6q2_.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+7:T14b8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350.941 310.70000000000005" width="350.941" height="310.70000000000005" style="--bg:var(--color-fd-card);--fg:var(--color-fd-foreground);--line:var(--color-fd-muted-foreground);--accent:var(--color-fd-primary);--muted:var(--color-fd-muted-foreground);--surface:var(--color-fd-secondary);--border:color-mix(in oklab, var(--color-fd-muted-foreground) 70%, var(--color-fd-border))">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=inherit:wght@400;500;600;700&amp;display=swap');
+  text { font-family: 'inherit', system-ui, sans-serif; }
+  svg {
+    /* Derived from --bg and --fg (overridable via --line, --accent, etc.) */
+    --_text:          var(--fg);
+    --_text-sec:      var(--muted, color-mix(in srgb, var(--fg) 60%, var(--bg)));
+    --_text-muted:    var(--muted, color-mix(in srgb, var(--fg) 40%, var(--bg)));
+    --_text-faint:    color-mix(in srgb, var(--fg) 25%, var(--bg));
+    --_line:          var(--line, color-mix(in srgb, var(--fg) 50%, var(--bg)));
+    --_arrow:         var(--accent, color-mix(in srgb, var(--fg) 85%, var(--bg)));
+    --_node-fill:     var(--surface, color-mix(in srgb, var(--fg) 3%, var(--bg)));
+    --_node-stroke:   var(--border, color-mix(in srgb, var(--fg) 20%, var(--bg)));
+    --_group-fill:    var(--bg);
+    --_group-hdr:     color-mix(in srgb, var(--fg) 5%, var(--bg));
+    --_inner-stroke:  color-mix(in srgb, var(--fg) 12%, var(--bg));
+    --_key-badge:     color-mix(in srgb, var(--fg) 10%, var(--bg));
+  }
+</style>
+<defs>
+  <marker id="arrowhead" markerWidth="8" markerHeight="5" refX="7" refY="2.5" orient="auto">
+    <polygon points="0 0, 8 2.5, 0 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+  <marker id="arrowhead-start" markerWidth="8" markerHeight="5" refX="1" refY="2.5" orient="auto-start-reverse">
+    <polygon points="8 0, 0 2.5, 8 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+</defs>
+<polyline class="edge" data-from="MA" data-to="PP" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="219.56,44.900000000000006 219.56,68.9 146.42349999999996,68.9 146.42349999999996,92.9" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="MA" data-to="RM" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="219.56,44.900000000000006 219.56,68.9 292.69649999999996,68.9 292.69649999999996,177.8" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="PP" data-to="PD" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="146.42349999999996,129.8 146.42349999999996,177.8" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="PD" data-to="API" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="146.42349999999996,214.70000000000002 146.42349999999996,262.70000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<g class="node" data-id="MA" data-label="manage-access" data-shape="rectangle">
+  <rect x="151.5315" y="8" width="136.057" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="219.56" y="26.450000000000003" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">manage-access</text>
+</g>
+<g class="node" data-id="PP" data-label="principal-picker" data-shape="rectangle">
+  <rect x="78.39499999999995" y="92.9" width="136.05700000000002" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="146.42349999999996" y="111.35000000000001" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">principal-picker</text>
+</g>
+<g class="node" data-id="RM" data-label="role-menu" data-shape="rectangle">
+  <rect x="242.45199999999997" y="177.8" width="100.489" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="292.69649999999996" y="196.25" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">role-menu</text>
+</g>
+<g class="node" data-id="PD" data-label="PrincipalDirectory" data-shape="rectangle">
+  <rect x="70.61449999999996" y="177.8" width="151.618" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="146.42349999999996" y="196.25" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">PrincipalDirectory</text>
+</g>
+<g class="node" data-id="API" data-label="searchPrincipals / fetchPrincipalsByIds" data-shape="rectangle">
+  <rect x="8" y="262.70000000000005" width="276.8469999999999" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="146.42349999999996" y="281.15000000000003" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">searchPrincipals / fetchPrincipalsByIds</text>
+</g>
+</svg>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"toc":[],"tableOfContent":{"style":"clerk"},"tableOfContentPopover":{"style":"clerk"},"children":[["$","$L3",null,{"children":"Access and people"}],["$","$L4",null,{"children":"Pick users and groups, and manage who owns or reads an item — standalone components, not tied to any feature."}],["$","$L5",null,{"markdownUrl":"/atomic-angular-docs/llms.mdx/docs/atomic-angular/access/content.md"}],["$","$L6",null,{"children":[["$","p",null,{"children":["Two components of ",["$","code",null,{"children":"@sinequa/atomic-angular"}]," deal with people. ",["$","code",null,{"children":"<principal-picker>"}]," searches the directory and\nhands back the people picked. ",["$","code",null,{"children":"<manage-access>"}]," builds on it: a whole \"Manage access\" block — owners, readers, a\npublic switch — that edits two plain lists of ids. Neither knows what it is attached to: a workspace, an agent, a\nskill or an upload can use them the same way."]}],"\n",["$","div",null,{"className":"my-6 overflow-x-auto [&>svg]:mx-auto [&>svg]:h-auto [&>svg]:max-w-full","dangerouslySetInnerHTML":{"__html":"$7"}}],"\n","$L8"]}]]}],["$L9","$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pNYW5ecteUvLRF4pIxctT"}
+8:["$","div",null,{"children":["$","$Lc",null,{"children":[null,["$","h3",null,{"className":"not-prose mb-1 text-sm font-medium","children":"Manage access"}],null,["$","div",null,{"className":"text-sm text-fd-muted-foreground prose-no-margin empty:hidden","children":["$","p",null,{"children":"Owners, readers, make public, custom switches, injected principals."}]}]],"href":"/docs/atomic-angular/access/manage-access","data-card":true,"className":"block rounded-xl border bg-fd-card p-4 text-fd-card-foreground transition-colors @max-lg:col-span-full hover:bg-fd-accent/80"}],"className":"grid grid-cols-2 gap-3 @container"}]
+9:["$","script","script-0",{"src":"/atomic-angular-docs/_next/static/chunks/0lfua5rs_6mfo.js","async":true}]
+a:["$","script","script-1",{"src":"/atomic-angular-docs/_next/static/chunks/3w2bzlp3a7nr6.js","async":true}]
+b:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

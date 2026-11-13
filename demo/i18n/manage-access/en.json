@@ -1,0 +1,18 @@
+{
+  "title": "Manage access",
+  "peopleCount": "{count} {count, plural, one {person} other {people}}",
+  "andGroupsCount": "and {count} {count, plural, one {group} other {groups}}",
+  "hasAccess": "{count, plural, one {has} other {have}} access to this item",
+  "group": "Group",
+  "you": "(You)",
+  "accessAdded": "{name} added",
+  "accessRemoved": "{name} removed",
+  "accessExists": "{name} already has access",
+  "removeAccess": "Remove access for {name}",
+  "roleOf": "{role}, access role of {name}",
+  "searchPlaceholder": "Search by name, fullname or email",
+  "searchLabel": "Add a person or a group",
+  "makePublic": "Make public",
+  "makePublicDescription": "Allow everyone in your organization to see and use this item. (Read only)",
+  "ownersOnlyNotice": "Owners will still be the only ones who can modify this item."
+}

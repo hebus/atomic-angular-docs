@@ -1,0 +1,5 @@
+{
+  "itemsSelected": "{count} {count, plural, one {document sélectionné} other {documents sélectionnés}}",
+  "label": "Actions sur les documents sélectionnés",
+  "addToCollection": "Ajouter à une collection"
+}

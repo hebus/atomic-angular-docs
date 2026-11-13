@@ -1,0 +1,227 @@
+/*
+  Galactik Design Tokens — variante sombre.
+
+  `galactik-tokens.css` reste la source de vérité : ce fichier ne réassigne que des tokens
+  *sémantiques* (`--font-*`, `--bg-*`, `--stroke-*`, `--shadow-*`, `--scrim-*`) vers d'autres
+  primitives, jamais les primitives elles-mêmes. Tout ce qui consomme galactik bascule donc d'un
+  seul coup : les composants `@sinequa/atomic-angular`, le composant agent (via le `@theme` de
+  `styles/agent.css`) et les templates de Mint.
+
+  Transposé du thème sombre de l'app démo de `@sinequa/agent`
+  (projects/demo/src/styles/galactik-tokens-dark.css), qui sert de référence.
+
+  Deux écarts assumés par rapport à cette référence :
+  - la rampe de gris de Mint n'est pas la sienne (Mint suit une version plus récente de galactik) :
+    son `--grey-250` n'existe pas ici et devient `--grey-100`, de même valeur `#e2e5e9` ;
+  - les tokens qu'elle déclare mais que `galactik-tokens.css` ignore (`--bg-primary-active`,
+    `--stroke-neutral-base`, `--scrim-strong`, `--effect-*`, `--gradient-*`, `--stroke-*-rgb`) ne
+    sont pas repris : ce fichier reste le miroir exact de la version claire.
+
+  Les tokens contextuels `--layer-*` sont redéfinis eux aussi (dernier bloc) : Dialog, Sheet, Menu et
+  Sidebar peignent leur surface avec `--layer-page-*`, qui restait clair en sombre.
+
+  ⚠ À VALIDER PAR LE DESIGN : les blocs marqués « À VALIDER » ci-dessous (`--layer-*`,
+  `--bg-neutral-base-alt`, `--bg-primary-lightest`, `--bg-{cherry,indigo,yellow,cyan}-base-alt`) ont
+  été choisis par l'ingénierie à partir de ratios de contraste calculés, pas par le design.
+
+  `:root.dark` et non `.dark` : la classe est posée sur <html> par app.component.ts, et la
+  spécificité (0,2,0) garantit que ces valeurs battent celles de la version claire quel que soit
+  l'ordre d'injection.
+*/
+
+:root.dark {
+  /* ── Font ─────────────────────────────────────────────────────────────────── */
+  --font-primary-dark: var(--grey-200);
+  --font-primary-base: var(--grey-100);
+  --font-primary-muted: var(--sage-300);
+  --font-primary-hovered: var(--sage-50);
+  --font-primary-pressed: var(--absolute-pure-white);
+  --font-primary-light: var(--sage-700);
+
+  --font-secondary-base: var(--sage-200);
+  --font-secondary-hovered: var(--green-100);
+  --font-secondary-pressed: var(--almond-50);
+  --font-secondary-base-alt: var(--almond-200);
+
+  --font-accent-base: var(--pink-100);
+  --font-accent-pressed: var(--absolute-pure-white);
+  --font-accent-light: var(--pink-700);
+  --font-accent-muted: var(--pink-200);
+
+  --font-neutral-base: var(--grey-100);
+  --font-neutral-muted: var(--sage-300);
+  --font-neutral-light: var(--sage-800);
+  --font-neutral-white: var(--grey-100);
+  --font-neutral-black: var(--grey-200);
+
+  --font-warning-base: var(--orange-300);
+  --font-warning-light: var(--yellow-800);
+  --font-warning-muted: var(--yellow-400);
+  --font-info-base: var(--blue-200);
+  --font-info-light: var(--blue-700);
+  --font-info-muted: var(--blue-400);
+  --font-error-base: var(--red-200);
+  --font-error-light: var(--red-800);
+  --font-error-muted: var(--red-400);
+  --font-success-base: var(--almond-200);
+  --font-success-light: var(--green-700);
+  --font-success-muted: var(--almond-300);
+  --font-cherry-base: var(--cherry-200);
+  --font-cherry-muted: var(--cherry-300);
+  --font-indigo-base: var(--indigo-200);
+  --font-indigo-muted: var(--indigo-300);
+  --font-yellow-base: var(--yellow-200);
+  --font-yellow-muted: var(--yellow-400);
+  --font-cyan-base: var(--cyan-100);
+  --font-cyan-muted: var(--cyan-200);
+
+  /* ── Background ───────────────────────────────────────────────────────────── */
+  --bg-primary-base: var(--sage-700);
+  --bg-primary-hovered: var(--sage-600);
+  --bg-primary-pressed: var(--sage-800);
+  --bg-primary-light: var(--sage-900);
+  --bg-primary-lighter: var(--sage-950);
+  /* À VALIDER PAR LE DESIGN : --sage-975 n'est défini nulle part (le token tombait sur rien) ;
+     on prend le gris le plus sombre, voisin du fond de page. */
+  --bg-primary-lightest: var(--grey-950);
+
+  --bg-secondary-base: var(--almond-600);
+  --bg-secondary-base-alt: var(--almond-700);
+  --bg-secondary-active: var(--almond-800);
+  --bg-secondary-light: var(--almond-800);
+  --bg-secondary-lighter: var(--almond-900);
+  --bg-secondary-lightest: var(--almond-950);
+
+  --bg-accent-base: var(--pink-900);
+  --bg-accent-base-alt: var(--pink-800);
+  --bg-accent-hover: var(--pink-800);
+  --bg-accent-pressed: var(--pink-950);
+
+  --bg-neutral-base: var(--blue-900);
+  --bg-neutral-disabled: var(--sage-950);
+  --bg-neutral-white: var(--grey-950);
+  /* À VALIDER PAR LE DESIGN : puce sombre derrière --font-neutral-white (texte clair en sombre), utilisée
+     par le Tooltip et par les Badge, Avatar et Bullet gris. Elle valait grey-100, comme le texte :
+     contraste 1:1, texte invisible. */
+  --bg-neutral-base-alt: var(--grey-700);
+  /* Absents de la référence : la version claire les fait monter d'un cran vers le foncé, donc en
+     sombre ils montent d'un cran vers le clair. */
+  --bg-neutral-hovered: var(--grey-800);
+  --bg-neutral-muted: var(--grey-500);
+
+  /* Les fonds `-base-alt` sont ceux des bandeaux d'état, et le texte posé dessus est
+     `--font-<famille>-base`. Les deux tokens s'éclaircissent chacun de son côté en sombre, si bien
+     qu'ils convergeaient : mesurés dans la page, 3.12:1 pour success, 2.70:1 pour error et info,
+     1.75:1 pour warning, là où RGAA 3.2 demande 4.5:1 — le bandeau « aucun résultat » était de
+     l'orange pâle sur du jaune.
+
+     La correction est une règle, pas quatre valeurs choisies à la main : en sombre, le fond `alt`
+     prend la primitive dont le thème clair fait son *texte*, et le texte prend celle dont il fait son
+     fond. Les deux rôles s'échangent, le contraste est donc conservé par construction — 9.28:1,
+     7.14:1, 8.48:1 et 4.97:1, tous mesurés. Seul le fond change ici : les `--font-*-base` sombres
+     étaient déjà les couleurs claires de la paire. */
+  --bg-warning-base: var(--yellow-700);
+  --bg-warning-base-alt: var(--orange-800);
+  --bg-warning-lightest: var(--yellow-900);
+  --bg-success-base: var(--green-700);
+  --bg-success-base-alt: var(--green-800);
+  --bg-success-lightest: var(--green-900);
+  --bg-info-base: var(--blue-700);
+  --bg-info-base-alt: var(--blue-800);
+  --bg-info-lightest: var(--blue-900);
+  --bg-error-base: var(--red-700);
+  --bg-error-base-alt: var(--red-800);
+  --bg-error-lightest: var(--red-900);
+
+  /* À VALIDER PAR LE DESIGN : fonds tonals cherry, indigo, yellow et cyan. Les paliers -500 donnaient
+     2.1:1 à 2.8:1 sous --font-<teinte>-base (Tag, Badge, Avatar) ; -900 donne 9:1 ou plus. */
+  --bg-cherry-base: var(--cherry-800);
+  --bg-cherry-base-alt: var(--cherry-900);
+  --bg-indigo-base: var(--indigo-800);
+  --bg-indigo-base-alt: var(--indigo-900);
+  --bg-yellow-base: var(--yellow-800);
+  --bg-yellow-base-alt: var(--yellow-900);
+  --bg-cyan-base: var(--cyan-800);
+  --bg-cyan-base-alt: var(--cyan-900);
+
+  /* ── Stroke ───────────────────────────────────────────────────────────────── */
+  --stroke-focus: var(--pink-300);
+  --stroke-primary-base: var(--cyan-400);
+  --stroke-primary-hovered: var(--sage-300);
+  --stroke-primary-pressed: var(--almond-200);
+  --stroke-primary-light: var(--sage-700);
+  --stroke-primary-lighter: var(--sage-900);
+  --stroke-primary-muted: var(--sage-500);
+
+  --stroke-secondary-base: var(--almond-400);
+  --stroke-secondary-muted: var(--almond-500);
+  --stroke-secondary-dark: var(--almond-600);
+  --stroke-accent-base: var(--pink-300);
+  --stroke-accent-muted: var(--pink-500);
+  --stroke-yellow-base: var(--yellow-400);
+  --stroke-yellow-muted: var(--yellow-500);
+  --stroke-cherry-base: var(--cherry-400);
+  --stroke-cherry-muted: var(--cherry-500);
+  --stroke-indigo-base: var(--indigo-400);
+  --stroke-indigo-muted: var(--indigo-500);
+  --stroke-cyan-base: var(--cyan-300);
+  --stroke-cyan-muted: var(--cyan-500);
+  --stroke-warning-base: var(--orange-400);
+  --stroke-warning-muted: var(--orange-500);
+  --stroke-info-base: var(--blue-400);
+  --stroke-info-muted: var(--blue-500);
+  --stroke-success-base: var(--green-300);
+  --stroke-success-muted: var(--green-500);
+  --stroke-error-base: var(--red-300);
+  --stroke-error-muted: var(--red-500);
+
+  --stroke-neutral-disabled: var(--grey-800);
+  --stroke-neutral-dark: var(--grey-300);
+  --stroke-neutral-black: var(--grey-950);
+  --stroke-neutral-white: var(--sage-900);
+
+  /* ── Élévation et voile ───────────────────────────────────────────────────── */
+  --shadow-1: 0px 4px 6px rgba(0, 0, 0, 0.35), 0px 2px 4px rgba(0, 0, 0, 0.25);
+  --shadow-2: 0px 10px 15px rgba(0, 0, 0, 0.4), 0px 4px 6px rgba(0, 0, 0, 0.3);
+  --shadow-3: 0px 20px 25px rgba(0, 0, 0, 0.45), 0px 10px 10px rgba(0, 0, 0, 0.35);
+  --shadow-4: 0px 25px 50px rgba(0, 0, 0, 0.55);
+  --shadow-inner: inset -1px -1px 6px rgba(0, 0, 0, 0.4), inset 1px 1px 6px rgba(255, 255, 255, 0.08);
+
+  --scrim-base: rgba(0, 0, 0, 0.62);
+  --scrim-stronger: rgba(0, 0, 0, 0.82);
+
+  /* ── Couches contextuelles ────────────────────────────────────────────────── */
+  /* À VALIDER PAR LE DESIGN. Mêmes rôles que le thème clair (`on-layer` est la surface surélevée, un cran
+     plus claire que `layer`). `--layer-page-*` est ce qu'utilisent Dialog, Sheet, Menu et Sidebar pour
+     leur surface, leur texte et leurs bordures : sans ce bloc ils restent clairs en sombre, avec un texte
+     (`--layer-page-font` = --font-neutral-base) clair posé sur une surface claire. */
+  --layer-100-layer: var(--grey-900);
+  --layer-100-on-layer: var(--grey-800);
+  --layer-100-font: var(--font-neutral-base);
+  --layer-100-edge: var(--grey-700);
+  --layer-100-separator: var(--grey-700);
+
+  --layer-200-layer: var(--grey-800);
+  --layer-200-on-layer: var(--grey-700);
+  --layer-200-font: var(--font-neutral-base);
+  --layer-200-edge: var(--grey-600);
+  --layer-200-separator: var(--grey-600);
+
+  --layer-contour-layer: var(--grey-950);
+  --layer-contour-on-layer: var(--sage-950);
+  --layer-contour-font: var(--font-neutral-base);
+  --layer-contour-edge: var(--sage-900);
+  --layer-contour-separator: var(--sage-800);
+
+  --layer-page-layer: var(--grey-950);
+  --layer-page-on-layer: var(--grey-900);
+  --layer-page-font: var(--font-neutral-base);
+  --layer-page-edge: var(--grey-800);
+  --layer-page-separator: var(--grey-800);
+
+  --layer-brand-accent-layer: var(--sage-950);
+  --layer-brand-accent-on-layer: var(--sage-900);
+  --layer-brand-accent-font: var(--font-neutral-base);
+  --layer-brand-accent-edge: var(--sage-800);
+  --layer-brand-accent-separator: var(--sage-800);
+}

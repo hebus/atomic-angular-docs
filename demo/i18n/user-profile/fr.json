@@ -1,0 +1,55 @@
+{
+  "title": "Profil Utilisateur",
+  "notDefined": "Non défini",
+  "profileFields": "Champs du profil",
+  "changePhoto": "Changer la photo de profil",
+  "loading": "Chargement de votre profil…",
+  "loadError": "Veuillez contacter un administrateur pour créer votre profil utilisateur.",
+  "deleteProperty": "Supprimer le champ",
+  "editProperty": "Modifier le champ",
+  "saveProperty": "Enregistrer le champ",
+  "cancelEdit": "Annuler la modification",
+  "deletePropertyNamed": "Supprimer {{property}}",
+  "editPropertyNamed": "Modifier {{property}}",
+  "savePropertyNamed": "Enregistrer {{property}}",
+  "cancelEditNamed": "Annuler la modification de {{property}}",
+  "status": {
+    "editing": "Modification de {{property}}. Appuyez sur Échap pour annuler.",
+    "saved": "{{property}} enregistré.",
+    "editCancelled": "Modification de {{property}} annulée.",
+    "deleted": "{{property}} supprimé."
+  },
+  "errors": {
+    "required": "Ce champ est obligatoire.",
+    "invalidJson": "Ce n'est pas un tableau JSON valide."
+  },
+  "sections": {
+    "information": "Informations",
+    "informationHint": "Visibles par les personnes qui vous recherchent dans votre organisation.",
+    "preferences": "Préférences",
+    "preferencesHint": "Vous modifiez les valeurs ; la structure est définie par votre administrateur.",
+    "private": "Privé",
+    "privateHint": "Vous seul voyez ces valeurs ; elles ne sont jamais montrées aux autres utilisateurs."
+  },
+  "visibility": {
+    "public": "Public",
+    "private": "Privé",
+    "publicHint": "Visible par les autres utilisateurs",
+    "privateHint": "Vous seul pouvez voir cette information"
+  },
+  "defaultValue": "Valeur par défaut",
+  "saved": "Enregistré",
+  "editHint": "Entrée pour enregistrer · Échap pour annuler",
+  "editJsonHint": "Modifiez le tableau JSON · Échap pour annuler",
+  "data": {
+    "mail": "E-mail",
+    "fullName": "Nom complet",
+    "jobTitle": "Intitulé du poste",
+    "group": "Groupe",
+    "organisation": "Organisation",
+    "location": "Lieu",
+    "profilePhoto": "Photo de profil",
+    "skills": "Compétences"
+  },
+  "close": "Fermer"
+}

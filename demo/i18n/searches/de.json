@@ -1,0 +1,42 @@
+{
+  "filterCount": "{count} {count, plural, one {Filter} other {Filter}}",
+  "emptySearch": "Bitte geben Sie eine Suchanfrage ein.",
+  "saved": {
+    "label": "Gespeicherte Suchen",
+    "remove": "Gespeicherte Suche entfernen",
+    "noSavedSearches": "Noch keine gespeicherten Suchen",
+    "noSavedSearchesHint": "Speichern Sie eine Suche über die Suchleiste, um sie hier wiederzufinden.",
+    "save": "Suche speichern",
+    "saved": "Suche erfolgreich gespeichert",
+    "saveName": "Name speichern",
+    "saveYourSearch": "Speichern Sie Ihre Suche",
+    "deleted": "Gespeicherte Suche gelöscht"
+  },
+  "recent": {
+    "label": "Letzte Suchanfragen",
+    "remove": "Letzte Suchanfrage entfernen",
+    "noRecentSearches": "Noch keine letzten Suchanfragen",
+    "noRecentSearchesHint": "Ihre letzten Suchanfragen erscheinen hier.",
+    "deleted": "Letzte Suche gelöscht"
+  },
+  "history": {
+    "title": "Verlauf",
+    "filter": "Anzeigen",
+    "all": "Alle",
+    "favorites": "Favoriten",
+    "today": "Heute",
+    "yesterday": "Gestern",
+    "noSearches": "Noch keine Suchen",
+    "noSearchesHint": "Ihre letzten Suchen erscheinen hier.",
+    "noFavorites": "Noch keine Favoriten",
+    "noFavoritesHint": "Markieren Sie eine Suche als Favorit, um sie hier wiederzufinden.",
+    "addFavorite": "Zu Favoriten hinzufügen",
+    "removeFavorite": "Aus Favoriten entfernen",
+    "showFullTitle": "Vollständigen Titel anzeigen"
+  },
+  "selection": {
+    "selectAll": "Aktuelle Ergebnisse auswählen",
+    "unselectAll": "Aktuelle Ergebnisse abwählen"
+  },
+  "close": "Schließen"
+}

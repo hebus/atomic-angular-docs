@@ -1,0 +1,18 @@
+{
+  "title": "Zugriff verwalten",
+  "peopleCount": "{count} {count, plural, one {Person} other {Personen}}",
+  "andGroupsCount": "und {count} {count, plural, one {Gruppe} other {Gruppen}}",
+  "hasAccess": "{count, plural, one {hat} other {haben}} Zugriff auf dieses Element",
+  "group": "Gruppe",
+  "you": "(Sie)",
+  "accessAdded": "{name} hinzugefügt",
+  "accessRemoved": "{name} entfernt",
+  "accessExists": "{name} hat bereits Zugriff",
+  "removeAccess": "Zugriff für {name} entfernen",
+  "roleOf": "{role}, Zugriffsrolle von {name}",
+  "searchPlaceholder": "Nach Name, vollständigem Namen oder E-Mail suchen",
+  "searchLabel": "Person oder Gruppe hinzufügen",
+  "makePublic": "Öffentlich machen",
+  "makePublicDescription": "Allen in Ihrer Organisation erlauben, dieses Element zu sehen und zu verwenden. (Nur Lesezugriff)",
+  "ownersOnlyNotice": "Nur die Besitzer können dieses Element weiterhin ändern."
+}

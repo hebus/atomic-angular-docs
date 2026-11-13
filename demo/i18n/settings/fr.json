@@ -1,0 +1,47 @@
+{
+  "title": "Paramètres",
+  "close": "Fermer",
+  "account": {
+    "nav": "Compte",
+    "title": "Compte",
+    "description": "Gérez votre profil et votre compte",
+    "overrideUser": {
+      "title": "Se faire passer pour un utilisateur",
+      "description": "Accéder à la plateforme en tant qu'autre utilisateur ou domaine",
+      "action": "Se substituer"
+    },
+    "revertOverride": {
+      "title": "Se faire passer pour un utilisateur",
+      "description": "Vous agissez en tant qu'un autre utilisateur : revenez au vôtre",
+      "action": "Revenir"
+    },
+    "clearData": {
+      "title": "Effacer mes données",
+      "description": "Supprimez votre activité, vos espaces de travail, vos alertes et vos préférences",
+      "action": "Tout effacer"
+    }
+  },
+  "appearance": {
+    "nav": "Apparence",
+    "title": "Apparence",
+    "description": "Contrôlez l'aspect et la langue de l'application",
+    "theme": "Thème",
+    "themeDescription": "Sélectionnez le thème de l'interface",
+    "lightMode": "Clair",
+    "darkMode": "Sombre",
+    "systemMode": "Système",
+    "language": "Langue",
+    "languageDescription": "Sélectionnez la langue de l'interface"
+  },
+  "alerts": {
+    "nav": "Alertes",
+    "title": "Alertes",
+    "description": "Soyez averti lorsque de nouveaux résultats correspondent à une recherche",
+    "back": "Retour aux alertes"
+  },
+  "shortcuts": {
+    "nav": "Raccourcis clavier",
+    "title": "Raccourcis clavier",
+    "description": "Les raccourcis disponibles sur cette page"
+  }
+}

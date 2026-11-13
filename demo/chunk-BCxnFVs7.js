@@ -1,0 +1,1 @@
+import{j as bn}from"./chunk-BN-QhvVm.js";function a(i,t){let e=[],o=t.filterCount||0;o>0&&e.push(i.translate(`searches.filterCount`,{count:o})),t.date&&e.push(bn(i.getActiveLang(),t.date));let n=e.join(` · `);return n?n.charAt(0).toUpperCase()+n.slice(1):void 0}export{a as t};

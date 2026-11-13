@@ -1,0 +1,18 @@
+{
+  "title": "Gérer les accès",
+  "peopleCount": "{count} {count, plural, one {personne} other {personnes}}",
+  "andGroupsCount": "et {count} {count, plural, one {groupe} other {groupes}}",
+  "hasAccess": "{count, plural, one {a} other {ont}} accès à cet élément",
+  "group": "Groupe",
+  "you": "(Vous)",
+  "accessAdded": "{name} ajouté",
+  "accessRemoved": "{name} retiré",
+  "accessExists": "{name} a déjà accès",
+  "removeAccess": "Retirer l'accès de {name}",
+  "roleOf": "{role}, rôle d'accès de {name}",
+  "searchPlaceholder": "Rechercher par nom, nom complet ou e-mail",
+  "searchLabel": "Ajouter une personne ou un groupe",
+  "makePublic": "Rendre public",
+  "makePublicDescription": "Autoriser tout le monde dans votre organisation à voir et utiliser cet élément. (Lecture seule)",
+  "ownersOnlyNotice": "Les propriétaires resteront les seuls à pouvoir modifier cet élément."
+}

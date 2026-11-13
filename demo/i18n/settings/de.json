@@ -1,0 +1,47 @@
+{
+  "title": "Einstellungen",
+  "close": "Schließen",
+  "account": {
+    "nav": "Konto",
+    "title": "Konto",
+    "description": "Verwalten Sie Ihr Profil und Ihr Konto",
+    "overrideUser": {
+      "title": "Als anderer Benutzer anmelden",
+      "description": "Auf die Plattform als anderer Benutzer oder Domäne zugreifen",
+      "action": "Wechseln"
+    },
+    "revertOverride": {
+      "title": "Als anderer Benutzer anmelden",
+      "description": "Sie handeln als anderer Benutzer: zurück zu Ihrem eigenen",
+      "action": "Zurück"
+    },
+    "clearData": {
+      "title": "Meine Daten löschen",
+      "description": "Aktivität, Arbeitsbereiche, Alerts und Einstellungen entfernen",
+      "action": "Alles löschen"
+    }
+  },
+  "appearance": {
+    "nav": "Darstellung",
+    "title": "Darstellung",
+    "description": "Steuern Sie Aussehen und Sprache der Anwendung",
+    "theme": "Design",
+    "themeDescription": "Wählen Sie das Design der Benutzeroberfläche",
+    "lightMode": "Hell",
+    "darkMode": "Dunkel",
+    "systemMode": "System",
+    "language": "Sprache",
+    "languageDescription": "Wählen Sie die Sprache der Benutzeroberfläche"
+  },
+  "alerts": {
+    "nav": "Benachrichtigungen",
+    "title": "Benachrichtigungen",
+    "description": "Lassen Sie sich benachrichtigen, wenn neue Ergebnisse zu einer Suche passen",
+    "back": "Zurück zu den Benachrichtigungen"
+  },
+  "shortcuts": {
+    "nav": "Tastenkürzel",
+    "title": "Tastenkürzel",
+    "description": "Die auf dieser Seite verfügbaren Tastenkürzel"
+  }
+}

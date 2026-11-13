@@ -1,0 +1,9 @@
+{
+  "expiringTitle": "Votre session va bientôt expirer",
+  "expiringDescription": "Elle expire dans environ {{minutes}} min. Prolongez votre session pour la garder ouverte.",
+  "expiredTitle": "Votre session a expiré",
+  "expiredDescription": "Reconnectez-vous pour continuer.",
+  "reload": "Se reconnecter",
+  "extend": "Prolonger la session",
+  "extendedTitle": "Votre session a été prolongée"
+}

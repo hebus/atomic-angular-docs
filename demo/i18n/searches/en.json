@@ -1,0 +1,42 @@
+{
+  "filterCount": "{count} {count, plural, one {filter} other {filters}}",
+  "emptySearch": "Please enter a search query.",
+  "saved": {
+    "label": "Saved searches",
+    "remove": "Remove saved search",
+    "noSavedSearches": "No saved searches yet",
+    "noSavedSearchesHint": "Save a search from the search bar to find it again here.",
+    "save": "Save search",
+    "saved": "Search successfully saved",
+    "saveName": "Save name",
+    "saveYourSearch": "Save your search",
+    "deleted": "Saved search deleted"
+  },
+  "recent": {
+    "label": "Recent searches",
+    "remove": "Remove recent search",
+    "noRecentSearches": "No recent searches yet",
+    "noRecentSearchesHint": "Your latest searches will appear here.",
+    "deleted": "Recent search deleted"
+  },
+  "history": {
+    "title": "History",
+    "filter": "Show",
+    "all": "All",
+    "favorites": "Favorites",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "noSearches": "No searches yet",
+    "noSearchesHint": "Your latest searches will appear here.",
+    "noFavorites": "No favorites yet",
+    "noFavoritesHint": "Star a search in the history to find it again here.",
+    "addFavorite": "Add to favorites",
+    "removeFavorite": "Remove from favorites",
+    "showFullTitle": "Show the full title"
+  },
+  "selection": {
+    "selectAll": "Select current results",
+    "unselectAll": "Unselect current results"
+  },
+  "close": "Close"
+}

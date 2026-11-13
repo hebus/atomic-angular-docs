@@ -1,0 +1,28 @@
+{
+  "placeholder": "Rechercher par mot-clé ou poser une question",
+  "clearSearch": "Effacer la recherche",
+  "sendSearch": "Rechercher",
+  "suggestions": "Suggestions de recherche",
+  "noSuggestions": "Aucune suggestion pour votre recherche. Essayez un autre terme ou lancez votre recherche.",
+  "allowEmptySearch": "La recherche vide n'est pas autorisée.",
+  "saveSearch": "Enregistrer la recherche",
+  "shortcutHint": "Appuyez sur Contrôle plus Entrée pour enregistrer la recherche en surbrillance, ou la retirer des recherches enregistrées.",
+  "announceSaved": "Enregistrée : {{text}}",
+  "announceRemoved": "Retirée des recherches enregistrées : {{text}}",
+  "tabs": {
+    "label": "Suggestions ou recherches sauvegardées",
+    "suggestions": "Suggestions",
+    "saved": "Sauvegardées"
+  },
+  "categories": {
+    "full-text": "Texte intégral",
+    "recent-search": "Recherches récentes",
+    "saved-search": "Recherches sauvegardées",
+    "bookmark": "Favoris",
+    "title": "Titres",
+    "concepts": "Concepts",
+    "people": "Personnes",
+    "company": "Sociétés",
+    "location": "Lieux"
+  }
+}

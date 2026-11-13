@@ -1,0 +1,28 @@
+{
+  "placeholder": "Search by keyword or ask something",
+  "clearSearch": "Clear search",
+  "sendSearch": "Search",
+  "suggestions": "Search suggestions",
+  "noSuggestions": "We couldn't find any suggestion for your search. Try again with a different term or execute your search.",
+  "allowEmptySearch": "Empty search is not allowed.",
+  "saveSearch": "Save search",
+  "shortcutHint": "Press Control plus Enter to save the highlighted search, or to remove it from the saved ones.",
+  "announceSaved": "Saved: {{text}}",
+  "announceRemoved": "Removed from the saved searches: {{text}}",
+  "tabs": {
+    "label": "Suggestions or saved searches",
+    "suggestions": "Suggestions",
+    "saved": "Saved"
+  },
+  "categories": {
+    "full-text": "Full text",
+    "recent-search": "Recent searches",
+    "saved-search": "Saved searches",
+    "bookmark": "Bookmarks",
+    "title": "Titles",
+    "concepts": "Concepts",
+    "people": "People",
+    "company": "Companies",
+    "location": "Locations"
+  }
+}

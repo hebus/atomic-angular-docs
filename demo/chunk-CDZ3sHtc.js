@@ -1,0 +1,1 @@
+import{t as _}from"./chunk-5pbDjrE5.js";import{T as D,Xn as fe,jt as Qr}from"./chunk-BrL-1oot.js";function s(){let t=D(Qr),i=D(fe);return()=>_(()=>t.nativeElement.querySelector(`dialog input`),t.nativeElement.localName,{destroyRef:i})}export{s as t};

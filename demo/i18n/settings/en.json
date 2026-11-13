@@ -1,0 +1,47 @@
+{
+  "title": "Settings",
+  "close": "Close",
+  "account": {
+    "nav": "Account",
+    "title": "Account",
+    "description": "Manage your profile and your account",
+    "overrideUser": {
+      "title": "Override user",
+      "description": "Access the platform as another user or domain",
+      "action": "Override"
+    },
+    "revertOverride": {
+      "title": "Override user",
+      "description": "You are acting as another user: go back to your own",
+      "action": "Revert"
+    },
+    "clearData": {
+      "title": "Clear my data",
+      "description": "Remove your activity, workspaces, alerts, and preferences",
+      "action": "Clear all"
+    }
+  },
+  "appearance": {
+    "nav": "Appearance",
+    "title": "Appearance",
+    "description": "Control how the application looks and speaks to you",
+    "theme": "Theme",
+    "themeDescription": "Select the theme for the user interface",
+    "lightMode": "Light",
+    "darkMode": "Dark",
+    "systemMode": "System",
+    "language": "Language",
+    "languageDescription": "Select the language for the user interface"
+  },
+  "alerts": {
+    "nav": "Alerts",
+    "title": "Alerts",
+    "description": "Be notified when new results match a search",
+    "back": "Back to alerts"
+  },
+  "shortcuts": {
+    "nav": "Keyboard shortcuts",
+    "title": "Keyboard shortcuts",
+    "description": "The shortcuts available on this page"
+  }
+}

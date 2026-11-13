@@ -1,0 +1,18 @@
+{
+  "title": "アクセスを管理",
+  "peopleCount": "{count}{count, plural, other { 人}}",
+  "andGroupsCount": "と {count}{count, plural, other { グループ}}",
+  "hasAccess": "{count, plural, other {が}}この項目にアクセスできます",
+  "group": "グループ",
+  "you": "(あなた)",
+  "accessAdded": "{name} を追加しました",
+  "accessRemoved": "{name} を削除しました",
+  "accessExists": "{name} は既にアクセス権を持っています",
+  "removeAccess": "{name} のアクセス権を削除",
+  "roleOf": "{role}、{name} のアクセスロール",
+  "searchPlaceholder": "名前、フルネーム、またはメールアドレスで検索",
+  "searchLabel": "ユーザーまたはグループを追加",
+  "makePublic": "公開する",
+  "makePublicDescription": "組織内の全員がこの項目を表示して使用できるようにします。(読み取り専用)",
+  "ownersOnlyNotice": "この項目を変更できるのは、引き続きオーナーのみです。"
+}

@@ -1,0 +1,1 @@
+import{c as Ge}from"./main-ZSYOH55M.js";import{T as D}from"./chunk-BrL-1oot.js";function f(e){let t=D(Ge).isTouch;return{enter:i=>{t()||e().set(i)},leave:()=>{t()||e().set(void 0)},activate:i=>{t()&&e().set(i)}}}export{f as t};

@@ -1,0 +1,18 @@
+{
+  "title": "Schnellfilter",
+  "search": "Schnellfilter durchsuchen",
+  "clearSearch": "Suche löschen",
+  "list": "Ihre Schnellfilter",
+  "countOne": "{{count}} Filter",
+  "countOther": "{{count}} Filter",
+  "empty": "Noch keine Schnellfilter",
+  "emptyHint": "Die Schnellfilter, die Sie aus den Filtern der Ergebnisseite speichern, erscheinen hier.",
+  "noMatch": "Kein Schnellfilter entspricht Ihrer Suche",
+  "applied": "Schnellfilter angewendet: {{name}}",
+  "resize": "Höhe der Schnellfilter-Liste. Verwenden Sie die Pfeiltasten nach oben und unten.",
+  "delete": "Schnellfilter {{name}} löschen",
+  "deleteShortcut": "Entf",
+  "deleteDescription": "Zum Löschen {{key}} drücken",
+  "deleted": "Schnellfilter gelöscht: {{name}}",
+  "swipeDelete": "Löschen"
+}

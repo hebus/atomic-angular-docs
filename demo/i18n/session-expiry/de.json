@@ -1,0 +1,9 @@
+{
+  "expiringTitle": "Ihre Sitzung läuft bald ab",
+  "expiringDescription": "Sie läuft in etwa {{minutes}} Min. ab. Verlängern Sie Ihre Sitzung, um sie offen zu halten.",
+  "expiredTitle": "Ihre Sitzung ist abgelaufen",
+  "expiredDescription": "Melden Sie sich erneut an, um fortzufahren.",
+  "reload": "Erneut anmelden",
+  "extend": "Sitzung verlängern",
+  "extendedTitle": "Ihre Sitzung wurde verlängert"
+}

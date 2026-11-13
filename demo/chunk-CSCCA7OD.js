@@ -1,0 +1,1 @@
+import{n as V}from"./chunk-DKd2CyF8.js";import{i as Cn}from"./chunk-BN-QhvVm.js";var s=r=>!!r&&r.startsWith(`/`);function n(r,a){let t=s(a.queryParams?.path)?a.queryParams:Cn(a.url),i={q:t?.text,t:t?.tab};t?.filters&&t.filters.length>0&&(i.f=JSON.stringify(t.filters)),r.navigate([[t?.path,a.path].find(s)??`/search`],{queryParams:i})}export{n as t};

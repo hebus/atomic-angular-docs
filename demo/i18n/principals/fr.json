@@ -1,0 +1,17 @@
+{
+  "searchPlaceholder": "Rechercher par nom ou e-mail…",
+  "searchUsers": "Rechercher des utilisateurs",
+  "noMatches": "Aucun résultat.",
+  "searching": "Recherche…",
+  "searchFailed": "Échec de la recherche — réessayez.",
+  "changeRoleToOwner": "Définir {name} comme Propriétaire",
+  "changeRoleToReader": "Définir {name} comme Lecteur",
+  "owner": "Propriétaire",
+  "reader": "Lecteur",
+  "removeUser": "Retirer {name}",
+  "roleLabel": "Rôle",
+  "remove": "Retirer",
+  "you": "(vous)",
+  "changeRole": "Changer le rôle de {name}",
+  "group": "Groupe"
+}

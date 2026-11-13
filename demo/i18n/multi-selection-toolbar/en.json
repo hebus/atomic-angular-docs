@@ -1,0 +1,5 @@
+{
+  "itemsSelected": "{count} {count, plural, one {item selected} other {items selected}}",
+  "label": "Selected items actions",
+  "addToCollection": "Add to collection"
+}

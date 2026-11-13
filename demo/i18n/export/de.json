@@ -1,0 +1,14 @@
+{
+  "title": "Exportieren",
+  "outputFormat": "Ausgabeformat",
+  "exportColumns": "Zu exportierende Spalten",
+  "selectColumns": "Spalten auswählen…",
+  "maxLines": "Maximale Zeilenanzahl",
+  "download": "Herunterladen",
+  "downloading": "Wird heruntergeladen…",
+  "error": "Der Export ist fehlgeschlagen. Prüfen Sie Ihre Einstellungen und versuchen Sie es erneut.",
+  "from": "Exportieren von",
+  "fromQuery": "Abfrage",
+  "fromSelection": "Auswahl",
+  "close": "Schließen"
+}

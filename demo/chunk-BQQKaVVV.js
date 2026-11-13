@@ -1,0 +1,1 @@
+import{J as sn}from"./chunk-BN-QhvVm.js";import{si as x}from"./chunk-BrL-1oot.js";var m=new x(`ATOMIC_CLIENT`,{providedIn:`root`,factory:()=>sn()});export{m as t};

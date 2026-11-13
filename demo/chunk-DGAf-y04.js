@@ -1,0 +1,1 @@
+var s=`/logout`;function o(n){let t=n.split(`?`)[0].split(`#`)[0];return t.startsWith(`/`)?t:`/${t}`}function r(n,t){return n===t||n.startsWith(`${t}/`)}function u(n,t){if(!n)return!1;let i=o(n);return r(i,o(t??`/login`))||r(i,s)}export{u as t};

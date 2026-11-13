@@ -1,0 +1,18 @@
+{
+  "title": "Filtres rapides",
+  "search": "Rechercher un filtre rapide",
+  "clearSearch": "Effacer la recherche",
+  "list": "Vos filtres rapides",
+  "countOne": "{{count}} filtre",
+  "countOther": "{{count}} filtres",
+  "empty": "Aucun filtre rapide pour le moment",
+  "emptyHint": "Les filtres rapides que vous enregistrez depuis les filtres de la page de résultats apparaissent ici.",
+  "noMatch": "Aucun filtre rapide ne correspond à votre recherche",
+  "applied": "Filtre rapide appliqué : {{name}}",
+  "resize": "Hauteur de la liste des filtres rapides. Utilisez les flèches haut et bas.",
+  "delete": "Supprimer le filtre rapide {{name}}",
+  "deleteShortcut": "Suppr",
+  "deleteDescription": "Appuyez sur {{key}} pour supprimer",
+  "deleted": "Filtre rapide supprimé : {{name}}",
+  "swipeDelete": "Supprimer"
+}

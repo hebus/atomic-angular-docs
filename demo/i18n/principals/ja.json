@@ -1,0 +1,17 @@
+{
+  "searchPlaceholder": "名前またはメールアドレスで検索…",
+  "searchUsers": "ユーザーを検索",
+  "noMatches": "一致する結果がありません。",
+  "searching": "検索しています…",
+  "searchFailed": "検索に失敗しました — 再試行してください。",
+  "changeRoleToOwner": "{name} をオーナーにする",
+  "changeRoleToReader": "{name} をリーダーにする",
+  "owner": "所有者",
+  "reader": "閲覧者",
+  "removeUser": "{name} を削除",
+  "roleLabel": "ロール",
+  "remove": "削除",
+  "you": "（自分）",
+  "changeRole": "{name} のロールを変更",
+  "group": "グループ"
+}

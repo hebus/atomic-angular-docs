@@ -1,0 +1,14 @@
+{
+  "title": "Exporter",
+  "outputFormat": "Format de sortie",
+  "exportColumns": "Colonnes à exporter",
+  "selectColumns": "Sélectionner des colonnes…",
+  "maxLines": "Nb max de lignes",
+  "download": "Télécharger",
+  "downloading": "Téléchargement…",
+  "error": "L'export a échoué. Vérifiez vos réglages et réessayez.",
+  "from": "Exporter depuis",
+  "fromQuery": "Requête",
+  "fromSelection": "Sélection",
+  "close": "Fermer"
+}

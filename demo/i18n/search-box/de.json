@@ -1,0 +1,28 @@
+{
+  "placeholder": "Nach Stichwort suchen oder etwas fragen",
+  "clearSearch": "Suche löschen",
+  "sendSearch": "Suchen",
+  "suggestions": "Suchvorschläge",
+  "noSuggestions": "Keine Vorschläge für Ihre Suche gefunden. Versuchen Sie einen anderen Begriff oder starten Sie Ihre Suche.",
+  "allowEmptySearch": "Leere Suche ist nicht erlaubt.",
+  "saveSearch": "Suche speichern",
+  "shortcutHint": "Drücken Sie Strg plus Eingabe, um die markierte Suche zu speichern oder aus den gespeicherten Suchen zu entfernen.",
+  "announceSaved": "Gespeichert: {{text}}",
+  "announceRemoved": "Aus den gespeicherten Suchen entfernt: {{text}}",
+  "tabs": {
+    "label": "Vorschläge oder gespeicherte Suchen",
+    "suggestions": "Vorschläge",
+    "saved": "Gespeichert"
+  },
+  "categories": {
+    "full-text": "Volltext",
+    "recent-search": "Letzte Suchen",
+    "saved-search": "Gespeicherte Suchen",
+    "bookmark": "Lesezeichen",
+    "title": "Titel",
+    "concepts": "Konzepte",
+    "people": "Personen",
+    "company": "Unternehmen",
+    "location": "Orte"
+  }
+}

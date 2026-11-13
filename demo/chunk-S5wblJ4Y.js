@@ -1,0 +1,1 @@
+import{t as P}from"./chunk--PhHi_pk.js";import{A as Dt,T as D}from"./chunk-BrL-1oot.js";function b(s){let t=D(P).getLabels();return{labels:t,hasContent:Dt(()=>{let e=s(),n=e[t.public],o=e[t.private];return n&&n.length>0||o&&o.length>0})}}export{b as t};
